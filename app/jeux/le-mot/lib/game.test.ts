@@ -82,18 +82,38 @@ describe("normalisation et validation", () => {
     expect(normalizeWord("éclat")).toBe("ECLAT");
   });
 
+  it("accepte une entrée interdite comme solution parmi les propositions", () => {
+    expect(validateGuess("pôrno", new Set(["PORNO"]), 5)).toEqual({
+      valid: true,
+      word: "PORNO",
+    });
+  });
+
   it("refuse un mot incomplet", () => {
-    expect(validateGuess("POMM", acceptedWords)).toEqual({
+    expect(validateGuess("POMM", acceptedWords, 5)).toEqual({
       valid: false,
       reason: "incomplete",
     });
   });
 
   it("refuse un mot absent du dictionnaire", () => {
-    expect(validateGuess("ABCDE", acceptedWords)).toEqual({
+    expect(validateGuess("ABCDE", acceptedWords, 5)).toEqual({
       valid: false,
       reason: "unknown",
     });
+  });
+
+  it("accepte une autre longueur sans modifier le moteur", () => {
+    expect(validateGuess("CHAT", new Set(["CHAT"]), 4)).toEqual({
+      valid: true,
+      word: "CHAT",
+    });
+    expect(states("CHAT", "CHAT")).toEqual([
+      "correct",
+      "correct",
+      "correct",
+      "correct",
+    ]);
   });
 });
 

@@ -3,12 +3,6 @@
 import { useCallback, useEffect, useMemo, useState } from "react";
 
 import { GameGrid } from "@/app/jeux/le-mot/components/game-grid";
-import {
-  ACCEPTED_WORDS,
-  findSolution,
-  pickSolution,
-  type Solution,
-} from "@/app/jeux/le-mot/data/words";
 import { logSolutionInDevelopment } from "@/app/jeux/le-mot/lib/debug";
 import {
   buildKeyboardStates,
@@ -24,7 +18,17 @@ import {
   STORAGE_VERSION,
   type PersistedGame,
 } from "@/app/jeux/le-mot/lib/persistence";
+import {
+  findSolution,
+  pickSolution,
+} from "@/app/jeux/le-mot/lib/solutions";
 import { Keyboard } from "@/components/keyboard";
+import type { DictionaryWord, WordLength } from "@/app/data/words";
+
+type LeMotGameProps = {
+  wordLength: WordLength;
+  words: readonly DictionaryWord[];
+};
 
 type Feedback = {
   key: number;
@@ -34,9 +38,13 @@ type Feedback = {
 
 const EMPTY_FEEDBACK: Feedback = { key: 0, kind: "idle", message: "" };
 
-function createGame(solution: Solution): PersistedGame {
+function createGame(
+  solution: DictionaryWord,
+  wordLength: WordLength,
+): PersistedGame {
   return {
     version: STORAGE_VERSION,
+    wordLength,
     solutionId: solution.id,
     guesses: [],
     currentGuess: "",
@@ -44,21 +52,30 @@ function createGame(solution: Solution): PersistedGame {
   };
 }
 
-function resultMessage(game: PersistedGame, solution: Solution): string {
+function resultMessage(
+  game: PersistedGame,
+  solution: DictionaryWord,
+): string {
   return game.status === "won"
     ? `Bravo ! Vous avez trouvé ${solution.word}.`
     : `Partie terminée. La solution était ${solution.word}.`;
 }
 
-export function LeMotGame() {
+export function LeMotGame({ wordLength, words }: LeMotGameProps) {
   const [game, setGame] = useState<PersistedGame | null>(null);
   const [feedback, setFeedback] = useState<Feedback>(EMPTY_FEEDBACK);
+  const acceptedWords = useMemo(
+    () => new Set(words.map((word) => word.search)),
+    [words],
+  );
 
-  const solution = game ? findSolution(game.solutionId) : undefined;
+  const solution = game
+    ? findSolution(words, game.solutionId)
+    : undefined;
   const evaluatedGuesses = useMemo(
     () =>
       game && solution
-        ? game.guesses.map((guess) => evaluateGuess(guess, solution.word))
+        ? game.guesses.map((guess) => evaluateGuess(guess, solution.search))
         : [],
     [game, solution],
   );
@@ -69,9 +86,10 @@ export function LeMotGame() {
 
   useEffect(() => {
     const frame = window.requestAnimationFrame(() => {
-      const savedGame = loadGame();
-      const initialGame = savedGame ?? createGame(pickSolution());
-      const initialSolution = findSolution(initialGame.solutionId);
+      const savedGame = loadGame(words, wordLength);
+      const initialGame =
+        savedGame ?? createGame(pickSolution(words), wordLength);
+      const initialSolution = findSolution(words, initialGame.solutionId);
 
       setGame(initialGame);
       if (initialSolution) {
@@ -87,7 +105,7 @@ export function LeMotGame() {
     });
 
     return () => window.cancelAnimationFrame(frame);
-  }, []);
+  }, [wordLength, words]);
 
   useEffect(() => {
     if (game) {
@@ -113,7 +131,7 @@ export function LeMotGame() {
         if (
           !current ||
           current.status !== "playing" ||
-          current.currentGuess.length >= 5
+          current.currentGuess.length >= wordLength
         ) {
           return current;
         }
@@ -124,7 +142,7 @@ export function LeMotGame() {
         };
       });
     },
-    [clearFeedback],
+    [clearFeedback, wordLength],
   );
 
   const handleDelete = useCallback(() => {
@@ -146,11 +164,15 @@ export function LeMotGame() {
       return;
     }
 
-    const validation = validateGuess(game.currentGuess, ACCEPTED_WORDS);
+    const validation = validateGuess(
+      game.currentGuess,
+      acceptedWords,
+      wordLength,
+    );
     if (!validation.valid) {
       const message =
         validation.reason === "incomplete"
-          ? "Le mot doit contenir cinq lettres."
+          ? `Le mot doit contenir ${wordLength} lettres.`
           : "Ce mot n’est pas dans le dictionnaire.";
       setFeedback((current) => ({
         key: current.key + 1,
@@ -161,7 +183,7 @@ export function LeMotGame() {
     }
 
     const guesses = [...game.guesses, validation.word];
-    const status = deriveGameStatus(guesses, solution.word);
+    const status = deriveGameStatus(guesses, solution.search);
     const nextGame: PersistedGame = {
       ...game,
       guesses,
@@ -178,15 +200,15 @@ export function LeMotGame() {
           ? `${6 - guesses.length} essai${guesses.length === 5 ? "" : "s"} restant${guesses.length === 5 ? "" : "s"}.`
           : resultMessage(nextGame, solution),
     }));
-  }, [game, solution]);
+  }, [acceptedWords, game, solution, wordLength]);
 
   const handleNewGame = useCallback(() => {
-    const nextSolution = pickSolution(game?.solutionId);
+    const nextSolution = pickSolution(words, game?.solutionId);
     clearGame();
-    setGame(createGame(nextSolution));
+    setGame(createGame(nextSolution, wordLength));
     setFeedback(EMPTY_FEEDBACK);
     logSolutionInDevelopment(nextSolution.word);
-  }, [game?.solutionId]);
+  }, [game?.solutionId, wordLength, words]);
 
   useEffect(() => {
     if (!game || game.status !== "playing") {
@@ -219,7 +241,9 @@ export function LeMotGame() {
   return (
     <section className="flex w-full max-w-2xl flex-col items-center">
       <div className="text-center">
-        <h1 className="text-3xl font-semibold tracking-tight sm:text-4xl">Le Mot</h1>
+        <h1 className="text-3xl font-semibold tracking-tight sm:text-4xl">
+          Le Mot
+        </h1>
         <p className="mt-2 text-sm text-[var(--muted-foreground)] sm:text-base">
           Trouvez le mot en 6 essais
         </p>
@@ -229,6 +253,7 @@ export function LeMotGame() {
         <GameGrid
           guesses={evaluatedGuesses}
           currentGuess={game?.currentGuess ?? ""}
+          wordLength={wordLength}
           status={displayedStatus}
           shakeKey={feedback.kind === "error" ? feedback.key : 0}
         />
@@ -246,7 +271,8 @@ export function LeMotGame() {
         {game && solution && game.status !== "playing" && (
           <div className="mt-2 flex flex-col items-center gap-3">
             <p>
-              Solution : <strong className="tracking-widest">{solution.word}</strong>
+              Solution :{" "}
+              <strong className="tracking-widest">{solution.word}</strong>
             </p>
             <button
               type="button"

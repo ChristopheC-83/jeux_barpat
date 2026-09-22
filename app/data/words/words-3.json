@@ -1,0 +1,1454 @@
+[
+  {
+    "word": "PAS",
+    "search": "PAS",
+    "frequency": 8795.14,
+    "canBeSolution": true
+  },
+  {
+    "word": "NON",
+    "search": "NON",
+    "frequency": 1135.81,
+    "canBeSolution": true
+  },
+  {
+    "word": "PEU",
+    "search": "PEU",
+    "frequency": 1023.38,
+    "canBeSolution": true
+  },
+  {
+    "word": "VIE",
+    "search": "VIE",
+    "frequency": 835.47,
+    "canBeSolution": true
+  },
+  {
+    "word": "AIR",
+    "search": "AIR",
+    "frequency": 661.01,
+    "canBeSolution": true
+  },
+  {
+    "word": "OUI",
+    "search": "OUI",
+    "frequency": 637.57,
+    "canBeSolution": true
+  },
+  {
+    "word": "ANS",
+    "search": "ANS",
+    "frequency": 609.05,
+    "canBeSolution": true
+  },
+  {
+    "word": "ICI",
+    "search": "ICI",
+    "frequency": 483.58,
+    "canBeSolution": true
+  },
+  {
+    "word": "RUE",
+    "search": "RUE",
+    "frequency": 449.53,
+    "canBeSolution": true
+  },
+  {
+    "word": "EAU",
+    "search": "EAU",
+    "frequency": 417.84,
+    "canBeSolution": true
+  },
+  {
+    "word": "BON",
+    "search": "BON",
+    "frequency": 376.28,
+    "canBeSolution": true
+  },
+  {
+    "word": "MAL",
+    "search": "MAL",
+    "frequency": 349.46,
+    "canBeSolution": true
+  },
+  {
+    "word": "SÛR",
+    "search": "SUR",
+    "frequency": 343.51,
+    "canBeSolution": true
+  },
+  {
+    "word": "NOM",
+    "search": "NOM",
+    "frequency": 326.89,
+    "canBeSolution": true
+  },
+  {
+    "word": "LIT",
+    "search": "LIT",
+    "frequency": 315.74,
+    "canBeSolution": true
+  },
+  {
+    "word": "FIN",
+    "search": "FIN",
+    "frequency": 303.31,
+    "canBeSolution": true
+  },
+  {
+    "word": "MOT",
+    "search": "MOT",
+    "frequency": 260.47,
+    "canBeSolution": true
+  },
+  {
+    "word": "MER",
+    "search": "MER",
+    "frequency": 246.55,
+    "canBeSolution": true
+  },
+  {
+    "word": "CAS",
+    "search": "CAS",
+    "frequency": 217.36,
+    "canBeSolution": true
+  },
+  {
+    "word": "DOS",
+    "search": "DOS",
+    "frequency": 213.99,
+    "canBeSolution": true
+  },
+  {
+    "word": "ÂGE",
+    "search": "AGE",
+    "frequency": 205.27,
+    "canBeSolution": true
+  },
+  {
+    "word": "FEU",
+    "search": "FEU",
+    "frequency": 199.39,
+    "canBeSolution": true
+  },
+  {
+    "word": "NEZ",
+    "search": "NEZ",
+    "frequency": 177.64,
+    "canBeSolution": true
+  },
+  {
+    "word": "MUR",
+    "search": "MUR",
+    "frequency": 172.57,
+    "canBeSolution": true
+  },
+  {
+    "word": "SOL",
+    "search": "SOL",
+    "frequency": 148.31,
+    "canBeSolution": true
+  },
+  {
+    "word": "AMI",
+    "search": "AMI",
+    "frequency": 140.14,
+    "canBeSolution": true
+  },
+  {
+    "word": "TON",
+    "search": "TON",
+    "frequency": 138.45,
+    "canBeSolution": true
+  },
+  {
+    "word": "VUE",
+    "search": "VUE",
+    "frequency": 136.01,
+    "canBeSolution": true
+  },
+  {
+    "word": "JEU",
+    "search": "JEU",
+    "frequency": 130.68,
+    "canBeSolution": true
+  },
+  {
+    "word": "ÂME",
+    "search": "AME",
+    "frequency": 129.53,
+    "canBeSolution": true
+  },
+  {
+    "word": "TÔT",
+    "search": "TOT",
+    "frequency": 126.76,
+    "canBeSolution": true
+  },
+  {
+    "word": "SAC",
+    "search": "SAC",
+    "frequency": 125.47,
+    "canBeSolution": true
+  },
+  {
+    "word": "ÉTÉ",
+    "search": "ETE",
+    "frequency": 121.55,
+    "canBeSolution": true
+  },
+  {
+    "word": "BAS",
+    "search": "BAS",
+    "frequency": 119.86,
+    "canBeSolution": true
+  },
+  {
+    "word": "COU",
+    "search": "COU",
+    "frequency": 112.7,
+    "canBeSolution": true
+  },
+  {
+    "word": "FER",
+    "search": "FER",
+    "frequency": 106.28,
+    "canBeSolution": true
+  },
+  {
+    "word": "VIN",
+    "search": "VIN",
+    "frequency": 99.93,
+    "canBeSolution": true
+  },
+  {
+    "word": "ROI",
+    "search": "ROI",
+    "frequency": 85.95,
+    "canBeSolution": true
+  },
+  {
+    "word": "TAS",
+    "search": "TAS",
+    "frequency": 83.78,
+    "canBeSolution": true
+  },
+  {
+    "word": "ÎLE",
+    "search": "ILE",
+    "frequency": 83.58,
+    "canBeSolution": true
+  },
+  {
+    "word": "FOU",
+    "search": "FOU",
+    "frequency": 82.03,
+    "canBeSolution": true
+  },
+  {
+    "word": "ART",
+    "search": "ART",
+    "frequency": 81.49,
+    "canBeSolution": true
+  },
+  {
+    "word": "DUR",
+    "search": "DUR",
+    "frequency": 80.68,
+    "canBeSolution": true
+  },
+  {
+    "word": "FOI",
+    "search": "FOI",
+    "frequency": 76.49,
+    "canBeSolution": true
+  },
+  {
+    "word": "FIL",
+    "search": "FIL",
+    "frequency": 75.95,
+    "canBeSolution": true
+  },
+  {
+    "word": "SEC",
+    "search": "SEC",
+    "frequency": 72.3,
+    "canBeSolution": true
+  },
+  {
+    "word": "CRI",
+    "search": "CRI",
+    "frequency": 71.55,
+    "canBeSolution": true
+  },
+  {
+    "word": "CUL",
+    "search": "CUL",
+    "frequency": 64.46,
+    "canBeSolution": false
+  },
+  {
+    "word": "ETC",
+    "search": "ETC",
+    "frequency": 55.0,
+    "canBeSolution": true
+  },
+  {
+    "word": "BAR",
+    "search": "BAR",
+    "frequency": 52.57,
+    "canBeSolution": true
+  },
+  {
+    "word": "BUT",
+    "search": "BUT",
+    "frequency": 51.89,
+    "canBeSolution": true
+  },
+  {
+    "word": "COL",
+    "search": "COL",
+    "frequency": 51.82,
+    "canBeSolution": true
+  },
+  {
+    "word": "MEC",
+    "search": "MEC",
+    "frequency": 50.41,
+    "canBeSolution": true
+  },
+  {
+    "word": "EST",
+    "search": "EST",
+    "frequency": 49.73,
+    "canBeSolution": true
+  },
+  {
+    "word": "SON",
+    "search": "SON",
+    "frequency": 49.32,
+    "canBeSolution": true
+  },
+  {
+    "word": "NUS",
+    "search": "NUS",
+    "frequency": 48.92,
+    "canBeSolution": true
+  },
+  {
+    "word": "MAI",
+    "search": "MAI",
+    "frequency": 45.88,
+    "canBeSolution": true
+  },
+  {
+    "word": "CON",
+    "search": "CON",
+    "frequency": 45.41,
+    "canBeSolution": false
+  },
+  {
+    "word": "PUR",
+    "search": "PUR",
+    "frequency": 44.59,
+    "canBeSolution": true
+  },
+  {
+    "word": "LOI",
+    "search": "LOI",
+    "frequency": 44.46,
+    "canBeSolution": true
+  },
+  {
+    "word": "THÉ",
+    "search": "THE",
+    "frequency": 44.19,
+    "canBeSolution": true
+  },
+  {
+    "word": "NUE",
+    "search": "NUE",
+    "frequency": 43.85,
+    "canBeSolution": true
+  },
+  {
+    "word": "VIF",
+    "search": "VIF",
+    "frequency": 41.62,
+    "canBeSolution": true
+  },
+  {
+    "word": "VOL",
+    "search": "VOL",
+    "frequency": 41.22,
+    "canBeSolution": true
+  },
+  {
+    "word": "PIS",
+    "search": "PIS",
+    "frequency": 37.16,
+    "canBeSolution": true
+  },
+  {
+    "word": "BEL",
+    "search": "BEL",
+    "frequency": 37.09,
+    "canBeSolution": true
+  },
+  {
+    "word": "CLÉ",
+    "search": "CLE",
+    "frequency": 35.0,
+    "canBeSolution": true
+  },
+  {
+    "word": "MME",
+    "search": "MME",
+    "frequency": 33.24,
+    "canBeSolution": true
+  },
+  {
+    "word": "LAC",
+    "search": "LAC",
+    "frequency": 32.84,
+    "canBeSolution": true
+  },
+  {
+    "word": "POT",
+    "search": "POT",
+    "frequency": 32.3,
+    "canBeSolution": true
+  },
+  {
+    "word": "SEL",
+    "search": "SEL",
+    "frequency": 31.01,
+    "canBeSolution": true
+  },
+  {
+    "word": "DON",
+    "search": "DON",
+    "frequency": 30.27,
+    "canBeSolution": true
+  },
+  {
+    "word": "GAZ",
+    "search": "GAZ",
+    "frequency": 28.65,
+    "canBeSolution": true
+  },
+  {
+    "word": "SUD",
+    "search": "SUD",
+    "frequency": 28.38,
+    "canBeSolution": true
+  },
+  {
+    "word": "GRÉ",
+    "search": "GRE",
+    "frequency": 28.04,
+    "canBeSolution": true
+  },
+  {
+    "word": "RAS",
+    "search": "RAS",
+    "frequency": 25.07,
+    "canBeSolution": true
+  },
+  {
+    "word": "BEN",
+    "search": "BEN",
+    "frequency": 24.19,
+    "canBeSolution": true
+  },
+  {
+    "word": "LAS",
+    "search": "LAS",
+    "frequency": 23.65,
+    "canBeSolution": true
+  },
+  {
+    "word": "BEC",
+    "search": "BEC",
+    "frequency": 23.31,
+    "canBeSolution": true
+  },
+  {
+    "word": "BLÉ",
+    "search": "BLE",
+    "frequency": 23.24,
+    "canBeSolution": true
+  },
+  {
+    "word": "JUS",
+    "search": "JUS",
+    "frequency": 23.04,
+    "canBeSolution": true
+  },
+  {
+    "word": "GAI",
+    "search": "GAI",
+    "frequency": 22.64,
+    "canBeSolution": true
+  },
+  {
+    "word": "RAT",
+    "search": "RAT",
+    "frequency": 20.81,
+    "canBeSolution": true
+  },
+  {
+    "word": "BOL",
+    "search": "BOL",
+    "frequency": 20.07,
+    "canBeSolution": true
+  },
+  {
+    "word": "ÈVE",
+    "search": "EVE",
+    "frequency": 19.93,
+    "canBeSolution": true
+  },
+  {
+    "word": "PRÉ",
+    "search": "PRE",
+    "frequency": 19.8,
+    "canBeSolution": true
+  },
+  {
+    "word": "NET",
+    "search": "NET",
+    "frequency": 19.32,
+    "canBeSolution": true
+  },
+  {
+    "word": "BAL",
+    "search": "BAL",
+    "frequency": 18.31,
+    "canBeSolution": true
+  },
+  {
+    "word": "RIZ",
+    "search": "RIZ",
+    "frequency": 17.7,
+    "canBeSolution": true
+  },
+  {
+    "word": "MOU",
+    "search": "MOU",
+    "frequency": 17.09,
+    "canBeSolution": true
+  },
+  {
+    "word": "PLI",
+    "search": "PLI",
+    "frequency": 16.76,
+    "canBeSolution": true
+  },
+  {
+    "word": "TIR",
+    "search": "TIR",
+    "frequency": 16.01,
+    "canBeSolution": true
+  },
+  {
+    "word": "CAR",
+    "search": "CAR",
+    "frequency": 15.88,
+    "canBeSolution": true
+  },
+  {
+    "word": "CAP",
+    "search": "CAP",
+    "frequency": 15.68,
+    "canBeSolution": true
+  },
+  {
+    "word": "COQ",
+    "search": "COQ",
+    "frequency": 15.68,
+    "canBeSolution": true
+  },
+  {
+    "word": "LOT",
+    "search": "LOT",
+    "frequency": 15.68,
+    "canBeSolution": true
+  },
+  {
+    "word": "DUC",
+    "search": "DUC",
+    "frequency": 14.8,
+    "canBeSolution": true
+  },
+  {
+    "word": "NID",
+    "search": "NID",
+    "frequency": 14.59,
+    "canBeSolution": true
+  },
+  {
+    "word": "JET",
+    "search": "JET",
+    "frequency": 14.53,
+    "canBeSolution": true
+  },
+  {
+    "word": "ÂNE",
+    "search": "ANE",
+    "frequency": 14.32,
+    "canBeSolution": true
+  },
+  {
+    "word": "ARC",
+    "search": "ARC",
+    "frequency": 14.05,
+    "canBeSolution": true
+  },
+  {
+    "word": "FÛT",
+    "search": "FUT",
+    "frequency": 14.05,
+    "canBeSolution": true
+  },
+  {
+    "word": "BAC",
+    "search": "BAC",
+    "frequency": 13.99,
+    "canBeSolution": true
+  },
+  {
+    "word": "PAN",
+    "search": "PAN",
+    "frequency": 13.85,
+    "canBeSolution": true
+  },
+  {
+    "word": "SOU",
+    "search": "SOU",
+    "frequency": 12.57,
+    "canBeSolution": true
+  },
+  {
+    "word": "MIS",
+    "search": "MIS",
+    "frequency": 12.5,
+    "canBeSolution": true
+  },
+  {
+    "word": "PAR",
+    "search": "PAR",
+    "frequency": 12.16,
+    "canBeSolution": true
+  },
+  {
+    "word": "BUS",
+    "search": "BUS",
+    "frequency": 10.54,
+    "canBeSolution": true
+  },
+  {
+    "word": "PIC",
+    "search": "PIC",
+    "frequency": 10.34,
+    "canBeSolution": true
+  },
+  {
+    "word": "AXE",
+    "search": "AXE",
+    "frequency": 9.53,
+    "canBeSolution": true
+  },
+  {
+    "word": "PIN",
+    "search": "PIN",
+    "frequency": 9.53,
+    "canBeSolution": true
+  },
+  {
+    "word": "TER",
+    "search": "TER",
+    "frequency": 9.46,
+    "canBeSolution": true
+  },
+  {
+    "word": "DIT",
+    "search": "DIT",
+    "frequency": 8.58,
+    "canBeSolution": true
+  },
+  {
+    "word": "FOR",
+    "search": "FOR",
+    "frequency": 8.51,
+    "canBeSolution": true
+  },
+  {
+    "word": "AIL",
+    "search": "AIL",
+    "frequency": 7.97,
+    "canBeSolution": true
+  },
+  {
+    "word": "DÉS",
+    "search": "DES",
+    "frequency": 7.91,
+    "canBeSolution": true
+  },
+  {
+    "word": "ÈRE",
+    "search": "ERE",
+    "frequency": 7.64,
+    "canBeSolution": true
+  },
+  {
+    "word": "ROC",
+    "search": "ROC",
+    "frequency": 7.5,
+    "canBeSolution": true
+  },
+  {
+    "word": "MAT",
+    "search": "MAT",
+    "frequency": 7.3,
+    "canBeSolution": true
+  },
+  {
+    "word": "PIF",
+    "search": "PIF",
+    "frequency": 7.23,
+    "canBeSolution": true
+  },
+  {
+    "word": "TOC",
+    "search": "TOC",
+    "frequency": 7.09,
+    "canBeSolution": true
+  },
+  {
+    "word": "USÉ",
+    "search": "USE",
+    "frequency": 7.09,
+    "canBeSolution": true
+  },
+  {
+    "word": "ÉMU",
+    "search": "EMU",
+    "frequency": 6.89,
+    "canBeSolution": true
+  },
+  {
+    "word": "KID",
+    "search": "KID",
+    "frequency": 6.82,
+    "canBeSolution": true
+  },
+  {
+    "word": "MAN",
+    "search": "MAN",
+    "frequency": 6.82,
+    "canBeSolution": true
+  },
+  {
+    "word": "FÉE",
+    "search": "FEE",
+    "frequency": 6.62,
+    "canBeSolution": true
+  },
+  {
+    "word": "NEF",
+    "search": "NEF",
+    "frequency": 6.49,
+    "canBeSolution": true
+  },
+  {
+    "word": "BOY",
+    "search": "BOY",
+    "frequency": 6.42,
+    "canBeSolution": true
+  },
+  {
+    "word": "GEL",
+    "search": "GEL",
+    "frequency": 6.22,
+    "canBeSolution": true
+  },
+  {
+    "word": "VIS",
+    "search": "VIS",
+    "frequency": 6.15,
+    "canBeSolution": true
+  },
+  {
+    "word": "CRU",
+    "search": "CRU",
+    "frequency": 6.08,
+    "canBeSolution": true
+  },
+  {
+    "word": "ZOO",
+    "search": "ZOO",
+    "frequency": 6.08,
+    "canBeSolution": true
+  },
+  {
+    "word": "LIN",
+    "search": "LIN",
+    "frequency": 6.01,
+    "canBeSolution": true
+  },
+  {
+    "word": "AGA",
+    "search": "AGA",
+    "frequency": 5.95,
+    "canBeSolution": true
+  },
+  {
+    "word": "MIE",
+    "search": "MIE",
+    "frequency": 5.68,
+    "canBeSolution": true
+  },
+  {
+    "word": "VER",
+    "search": "VER",
+    "frequency": 5.61,
+    "canBeSolution": true
+  },
+  {
+    "word": "OIE",
+    "search": "OIE",
+    "frequency": 5.2,
+    "canBeSolution": true
+  },
+  {
+    "word": "MAS",
+    "search": "MAS",
+    "frequency": 5.07,
+    "canBeSolution": true
+  },
+  {
+    "word": "PUS",
+    "search": "PUS",
+    "frequency": 5.0,
+    "canBeSolution": true
+  },
+  {
+    "word": "SKI",
+    "search": "SKI",
+    "frequency": 5.0,
+    "canBeSolution": true
+  },
+  {
+    "word": "TIC",
+    "search": "TIC",
+    "frequency": 4.86,
+    "canBeSolution": true
+  },
+  {
+    "word": "TUE",
+    "search": "TUE",
+    "frequency": 4.8,
+    "canBeSolution": true
+  },
+  {
+    "word": "LEU",
+    "search": "LEU",
+    "frequency": 4.73,
+    "canBeSolution": true
+  },
+  {
+    "word": "TAC",
+    "search": "TAC",
+    "frequency": 4.59,
+    "canBeSolution": true
+  },
+  {
+    "word": "PET",
+    "search": "PET",
+    "frequency": 4.53,
+    "canBeSolution": false
+  },
+  {
+    "word": "ZEF",
+    "search": "ZEF",
+    "frequency": 4.53,
+    "canBeSolution": true
+  },
+  {
+    "word": "DOT",
+    "search": "DOT",
+    "frequency": 4.32,
+    "canBeSolution": true
+  },
+  {
+    "word": "GIN",
+    "search": "GIN",
+    "frequency": 4.32,
+    "canBeSolution": true
+  },
+  {
+    "word": "BOX",
+    "search": "BOX",
+    "frequency": 4.05,
+    "canBeSolution": true
+  },
+  {
+    "word": "PUB",
+    "search": "PUB",
+    "frequency": 3.99,
+    "canBeSolution": true
+  },
+  {
+    "word": "PSY",
+    "search": "PSY",
+    "frequency": 3.85,
+    "canBeSolution": true
+  },
+  {
+    "word": "SUS",
+    "search": "SUS",
+    "frequency": 3.65,
+    "canBeSolution": true
+  },
+  {
+    "word": "DER",
+    "search": "DER",
+    "frequency": 3.58,
+    "canBeSolution": true
+  },
+  {
+    "word": "NEW",
+    "search": "NEW",
+    "frequency": 3.51,
+    "canBeSolution": true
+  },
+  {
+    "word": "LIS",
+    "search": "LIS",
+    "frequency": 3.45,
+    "canBeSolution": true
+  },
+  {
+    "word": "LYS",
+    "search": "LYS",
+    "frequency": 3.38,
+    "canBeSolution": true
+  },
+  {
+    "word": "MOI",
+    "search": "MOI",
+    "frequency": 3.38,
+    "canBeSolution": true
+  },
+  {
+    "word": "RAI",
+    "search": "RAI",
+    "frequency": 3.31,
+    "canBeSolution": true
+  },
+  {
+    "word": "UNI",
+    "search": "UNI",
+    "frequency": 3.24,
+    "canBeSolution": true
+  },
+  {
+    "word": "VAN",
+    "search": "VAN",
+    "frequency": 3.24,
+    "canBeSolution": true
+  },
+  {
+    "word": "PIE",
+    "search": "PIE",
+    "frequency": 3.18,
+    "canBeSolution": true
+  },
+  {
+    "word": "VAL",
+    "search": "VAL",
+    "frequency": 3.04,
+    "canBeSolution": true
+  },
+  {
+    "word": "BEY",
+    "search": "BEY",
+    "frequency": 2.91,
+    "canBeSolution": true
+  },
+  {
+    "word": "HIC",
+    "search": "HIC",
+    "frequency": 2.91,
+    "canBeSolution": true
+  },
+  {
+    "word": "BRU",
+    "search": "BRU",
+    "frequency": 2.84,
+    "canBeSolution": true
+  },
+  {
+    "word": "DRU",
+    "search": "DRU",
+    "frequency": 2.84,
+    "canBeSolution": true
+  },
+  {
+    "word": "TRI",
+    "search": "TRI",
+    "frequency": 2.84,
+    "canBeSolution": true
+  },
+  {
+    "word": "KIF",
+    "search": "KIF",
+    "frequency": 2.77,
+    "canBeSolution": true
+  },
+  {
+    "word": "LOS",
+    "search": "LOS",
+    "frequency": 2.77,
+    "canBeSolution": true
+  },
+  {
+    "word": "ORS",
+    "search": "ORS",
+    "frequency": 2.77,
+    "canBeSolution": true
+  },
+  {
+    "word": "SIR",
+    "search": "SIR",
+    "frequency": 2.57,
+    "canBeSolution": true
+  },
+  {
+    "word": "SOT",
+    "search": "SOT",
+    "frequency": 2.57,
+    "canBeSolution": true
+  },
+  {
+    "word": "GUI",
+    "search": "GUI",
+    "frequency": 2.5,
+    "canBeSolution": true
+  },
+  {
+    "word": "GLU",
+    "search": "GLU",
+    "frequency": 2.43,
+    "canBeSolution": true
+  },
+  {
+    "word": "JOB",
+    "search": "JOB",
+    "frequency": 2.43,
+    "canBeSolution": true
+  },
+  {
+    "word": "AVE",
+    "search": "AVE",
+    "frequency": 2.36,
+    "canBeSolution": true
+  },
+  {
+    "word": "BÂT",
+    "search": "BAT",
+    "frequency": 2.36,
+    "canBeSolution": true
+  },
+  {
+    "word": "BUE",
+    "search": "BUE",
+    "frequency": 2.36,
+    "canBeSolution": true
+  },
+  {
+    "word": "COR",
+    "search": "COR",
+    "frequency": 2.36,
+    "canBeSolution": true
+  },
+  {
+    "word": "LIE",
+    "search": "LIE",
+    "frequency": 2.3,
+    "canBeSolution": true
+  },
+  {
+    "word": "MAX",
+    "search": "MAX",
+    "frequency": 2.3,
+    "canBeSolution": true
+  },
+  {
+    "word": "GYM",
+    "search": "GYM",
+    "frequency": 2.23,
+    "canBeSolution": true
+  },
+  {
+    "word": "PAF",
+    "search": "PAF",
+    "frequency": 2.23,
+    "canBeSolution": true
+  },
+  {
+    "word": "CIL",
+    "search": "CIL",
+    "frequency": 2.16,
+    "canBeSolution": true
+  },
+  {
+    "word": "COI",
+    "search": "COI",
+    "frequency": 2.16,
+    "canBeSolution": true
+  },
+  {
+    "word": "MUE",
+    "search": "MUE",
+    "frequency": 2.16,
+    "canBeSolution": true
+  },
+  {
+    "word": "VIL",
+    "search": "VIL",
+    "frequency": 2.16,
+    "canBeSolution": true
+  },
+  {
+    "word": "DUO",
+    "search": "DUO",
+    "frequency": 2.09,
+    "canBeSolution": true
+  },
+  {
+    "word": "FAC",
+    "search": "FAC",
+    "frequency": 2.09,
+    "canBeSolution": true
+  },
+  {
+    "word": "RUT",
+    "search": "RUT",
+    "frequency": 2.09,
+    "canBeSolution": true
+  },
+  {
+    "word": "TOP",
+    "search": "TOP",
+    "frequency": 2.09,
+    "canBeSolution": true
+  },
+  {
+    "word": "DUE",
+    "search": "DUE",
+    "frequency": 2.03,
+    "canBeSolution": true
+  },
+  {
+    "word": "GUÉ",
+    "search": "GUE",
+    "frequency": 2.03,
+    "canBeSolution": true
+  },
+  {
+    "word": "NIB",
+    "search": "NIB",
+    "frequency": 2.03,
+    "canBeSolution": true
+  },
+  {
+    "word": "BOA",
+    "search": "BOA",
+    "frequency": 1.96,
+    "canBeSolution": false
+  },
+  {
+    "word": "DEY",
+    "search": "DEY",
+    "frequency": 1.96,
+    "canBeSolution": false
+  },
+  {
+    "word": "GUS",
+    "search": "GUS",
+    "frequency": 1.96,
+    "canBeSolution": false
+  },
+  {
+    "word": "LUT",
+    "search": "LUT",
+    "frequency": 1.89,
+    "canBeSolution": false
+  },
+  {
+    "word": "SUC",
+    "search": "SUC",
+    "frequency": 1.89,
+    "canBeSolution": false
+  },
+  {
+    "word": "BIS",
+    "search": "BIS",
+    "frequency": 1.82,
+    "canBeSolution": false
+  },
+  {
+    "word": "DIE",
+    "search": "DIE",
+    "frequency": 1.82,
+    "canBeSolution": false
+  },
+  {
+    "word": "ÉPI",
+    "search": "EPI",
+    "frequency": 1.82,
+    "canBeSolution": false
+  },
+  {
+    "word": "NUL",
+    "search": "NUL",
+    "frequency": 1.82,
+    "canBeSolution": false
+  },
+  {
+    "word": "BAN",
+    "search": "BAN",
+    "frequency": 1.76,
+    "canBeSolution": false
+  },
+  {
+    "word": "ZEN",
+    "search": "ZEN",
+    "frequency": 1.76,
+    "canBeSolution": false
+  },
+  {
+    "word": "ÉLU",
+    "search": "ELU",
+    "frequency": 1.69,
+    "canBeSolution": false
+  },
+  {
+    "word": "NÉE",
+    "search": "NEE",
+    "frequency": 1.69,
+    "canBeSolution": false
+  },
+  {
+    "word": "RAB",
+    "search": "RAB",
+    "frequency": 1.69,
+    "canBeSolution": false
+  },
+  {
+    "word": "DAM",
+    "search": "DAM",
+    "frequency": 1.62,
+    "canBeSolution": false
+  },
+  {
+    "word": "HIV",
+    "search": "HIV",
+    "frequency": 1.62,
+    "canBeSolution": false
+  },
+  {
+    "word": "PRO",
+    "search": "PRO",
+    "frequency": 1.62,
+    "canBeSolution": false
+  },
+  {
+    "word": "SOC",
+    "search": "SOC",
+    "frequency": 1.62,
+    "canBeSolution": false
+  },
+  {
+    "word": "MIL",
+    "search": "MIL",
+    "frequency": 1.55,
+    "canBeSolution": false
+  },
+  {
+    "word": "ÉCU",
+    "search": "ECU",
+    "frequency": 1.49,
+    "canBeSolution": false
+  },
+  {
+    "word": "FAN",
+    "search": "FAN",
+    "frequency": 1.49,
+    "canBeSolution": false
+  },
+  {
+    "word": "HAN",
+    "search": "HAN",
+    "frequency": 1.49,
+    "canBeSolution": false
+  },
+  {
+    "word": "MAC",
+    "search": "MAC",
+    "frequency": 1.49,
+    "canBeSolution": false
+  },
+  {
+    "word": "NÉS",
+    "search": "NES",
+    "frequency": 1.49,
+    "canBeSolution": false
+  },
+  {
+    "word": "NAN",
+    "search": "NAN",
+    "frequency": 1.42,
+    "canBeSolution": false
+  },
+  {
+    "word": "POU",
+    "search": "POU",
+    "frequency": 1.42,
+    "canBeSolution": false
+  },
+  {
+    "word": "RIF",
+    "search": "RIF",
+    "frequency": 1.42,
+    "canBeSolution": false
+  },
+  {
+    "word": "SIC",
+    "search": "SIC",
+    "frequency": 1.35,
+    "canBeSolution": false
+  },
+  {
+    "word": "ZOB",
+    "search": "ZOB",
+    "frequency": 1.35,
+    "canBeSolution": false
+  },
+  {
+    "word": "BIP",
+    "search": "BIP",
+    "frequency": 1.28,
+    "canBeSolution": false
+  },
+  {
+    "word": "DAB",
+    "search": "DAB",
+    "frequency": 1.28,
+    "canBeSolution": false
+  },
+  {
+    "word": "FOL",
+    "search": "FOL",
+    "frequency": 1.28,
+    "canBeSolution": false
+  },
+  {
+    "word": "POP",
+    "search": "POP",
+    "frequency": 1.28,
+    "canBeSolution": false
+  },
+  {
+    "word": "RAZ",
+    "search": "RAZ",
+    "frequency": 1.28,
+    "canBeSolution": false
+  },
+  {
+    "word": "REX",
+    "search": "REX",
+    "frequency": 1.28,
+    "canBeSolution": false
+  },
+  {
+    "word": "ARE",
+    "search": "ARE",
+    "frequency": 1.22,
+    "canBeSolution": false
+  },
+  {
+    "word": "BAI",
+    "search": "BAI",
+    "frequency": 1.22,
+    "canBeSolution": false
+  },
+  {
+    "word": "DRY",
+    "search": "DRY",
+    "frequency": 1.22,
+    "canBeSolution": false
+  },
+  {
+    "word": "EGO",
+    "search": "EGO",
+    "frequency": 1.22,
+    "canBeSolution": false
+  },
+  {
+    "word": "FOC",
+    "search": "FOC",
+    "frequency": 1.22,
+    "canBeSolution": false
+  },
+  {
+    "word": "GÉO",
+    "search": "GEO",
+    "frequency": 1.22,
+    "canBeSolution": false
+  },
+  {
+    "word": "FEZ",
+    "search": "FEZ",
+    "frequency": 1.15,
+    "canBeSolution": false
+  },
+  {
+    "word": "MOL",
+    "search": "MOL",
+    "frequency": 1.15,
+    "canBeSolution": false
+  },
+  {
+    "word": "TUB",
+    "search": "TUB",
+    "frequency": 1.15,
+    "canBeSolution": false
+  },
+  {
+    "word": "GAG",
+    "search": "GAG",
+    "frequency": 1.08,
+    "canBeSolution": false
+  },
+  {
+    "word": "MIN",
+    "search": "MIN",
+    "frequency": 1.08,
+    "canBeSolution": false
+  },
+  {
+    "word": "ROT",
+    "search": "ROT",
+    "frequency": 1.08,
+    "canBeSolution": false
+  },
+  {
+    "word": "TÊT",
+    "search": "TET",
+    "frequency": 1.08,
+    "canBeSolution": false
+  }
+]

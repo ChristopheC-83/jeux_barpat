@@ -1,0 +1,4754 @@
+[
+  {
+    "word": "PLUS",
+    "search": "PLUS",
+    "frequency": 5014.53,
+    "canBeSolution": true
+  },
+  {
+    "word": "BIEN",
+    "search": "BIEN",
+    "frequency": 2535.14,
+    "canBeSolution": true
+  },
+  {
+    "word": "MÊME",
+    "search": "MEME",
+    "frequency": 1358.65,
+    "canBeSolution": true
+  },
+  {
+    "word": "FOIS",
+    "search": "FOIS",
+    "frequency": 1140.0,
+    "canBeSolution": true
+  },
+  {
+    "word": "TRÈS",
+    "search": "TRES",
+    "frequency": 1120.81,
+    "canBeSolution": true
+  },
+  {
+    "word": "YEUX",
+    "search": "YEUX",
+    "frequency": 955.68,
+    "canBeSolution": true
+  },
+  {
+    "word": "TÊTE",
+    "search": "TETE",
+    "frequency": 861.49,
+    "canBeSolution": true
+  },
+  {
+    "word": "DIRE",
+    "search": "DIRE",
+    "frequency": 827.84,
+    "canBeSolution": true
+  },
+  {
+    "word": "JOUR",
+    "search": "JOUR",
+    "frequency": 826.35,
+    "canBeSolution": true
+  },
+  {
+    "word": "TROP",
+    "search": "TROP",
+    "frequency": 790.0,
+    "canBeSolution": true
+  },
+  {
+    "word": "MAIN",
+    "search": "MAIN",
+    "frequency": 788.72,
+    "canBeSolution": true
+  },
+  {
+    "word": "MÈRE",
+    "search": "MERE",
+    "frequency": 737.09,
+    "canBeSolution": true
+  },
+  {
+    "word": "VOIR",
+    "search": "VOIR",
+    "frequency": 716.55,
+    "canBeSolution": true
+  },
+  {
+    "word": "PÈRE",
+    "search": "PERE",
+    "frequency": 708.11,
+    "canBeSolution": true
+  },
+  {
+    "word": "DÉJÀ",
+    "search": "DEJA",
+    "frequency": 702.23,
+    "canBeSolution": true
+  },
+  {
+    "word": "NUIT",
+    "search": "NUIT",
+    "frequency": 672.36,
+    "canBeSolution": true
+  },
+  {
+    "word": "COUP",
+    "search": "COUP",
+    "frequency": 641.55,
+    "canBeSolution": true
+  },
+  {
+    "word": "VOIX",
+    "search": "VOIX",
+    "frequency": 612.7,
+    "canBeSolution": true
+  },
+  {
+    "word": "SOIR",
+    "search": "SOIR",
+    "frequency": 527.23,
+    "canBeSolution": true
+  },
+  {
+    "word": "ÊTRE",
+    "search": "ETRE",
+    "frequency": 505.61,
+    "canBeSolution": true
+  },
+  {
+    "word": "CÔTÉ",
+    "search": "COTE",
+    "frequency": 497.43,
+    "canBeSolution": true
+  },
+  {
+    "word": "BRAS",
+    "search": "BRAS",
+    "frequency": 487.97,
+    "canBeSolution": true
+  },
+  {
+    "word": "SEUL",
+    "search": "SEUL",
+    "frequency": 478.58,
+    "canBeSolution": true
+  },
+  {
+    "word": "LOIN",
+    "search": "LOIN",
+    "frequency": 452.36,
+    "canBeSolution": true
+  },
+  {
+    "word": "TANT",
+    "search": "TANT",
+    "frequency": 436.42,
+    "canBeSolution": true
+  },
+  {
+    "word": "GENS",
+    "search": "GENS",
+    "frequency": 409.39,
+    "canBeSolution": true
+  },
+  {
+    "word": "FOND",
+    "search": "FOND",
+    "frequency": 376.15,
+    "canBeSolution": true
+  },
+  {
+    "word": "BOUT",
+    "search": "BOUT",
+    "frequency": 375.68,
+    "canBeSolution": true
+  },
+  {
+    "word": "MORT",
+    "search": "MORT",
+    "frequency": 373.99,
+    "canBeSolution": false
+  },
+  {
+    "word": "DIEU",
+    "search": "DIEU",
+    "frequency": 368.51,
+    "canBeSolution": true
+  },
+  {
+    "word": "VITE",
+    "search": "VITE",
+    "frequency": 351.89,
+    "canBeSolution": true
+  },
+  {
+    "word": "TARD",
+    "search": "TARD",
+    "frequency": 344.26,
+    "canBeSolution": true
+  },
+  {
+    "word": "FAIT",
+    "search": "FAIT",
+    "frequency": 325.27,
+    "canBeSolution": true
+  },
+  {
+    "word": "VRAI",
+    "search": "VRAI",
+    "frequency": 311.89,
+    "canBeSolution": true
+  },
+  {
+    "word": "PEUR",
+    "search": "PEUR",
+    "frequency": 307.23,
+    "canBeSolution": true
+  },
+  {
+    "word": "PART",
+    "search": "PART",
+    "frequency": 306.22,
+    "canBeSolution": true
+  },
+  {
+    "word": "MOIS",
+    "search": "MOIS",
+    "frequency": 304.86,
+    "canBeSolution": true
+  },
+  {
+    "word": "CIEL",
+    "search": "CIEL",
+    "frequency": 301.76,
+    "canBeSolution": true
+  },
+  {
+    "word": "BOIS",
+    "search": "BOIS",
+    "frequency": 299.46,
+    "canBeSolution": true
+  },
+  {
+    "word": "MOTS",
+    "search": "MOTS",
+    "frequency": 293.31,
+    "canBeSolution": true
+  },
+  {
+    "word": "TOUT",
+    "search": "TOUT",
+    "frequency": 281.01,
+    "canBeSolution": true
+  },
+  {
+    "word": "TOUR",
+    "search": "TOUR",
+    "frequency": 280.27,
+    "canBeSolution": true
+  },
+  {
+    "word": "ŒIL",
+    "search": "OEIL",
+    "frequency": 278.51,
+    "canBeSolution": true
+  },
+  {
+    "word": "PUIS",
+    "search": "PUIS",
+    "frequency": 272.77,
+    "canBeSolution": true
+  },
+  {
+    "word": "BEAU",
+    "search": "BEAU",
+    "frequency": 270.07,
+    "canBeSolution": true
+  },
+  {
+    "word": "FACE",
+    "search": "FACE",
+    "frequency": 262.16,
+    "canBeSolution": true
+  },
+  {
+    "word": "PIED",
+    "search": "PIED",
+    "frequency": 248.18,
+    "canBeSolution": true
+  },
+  {
+    "word": "FILS",
+    "search": "FILS",
+    "frequency": 247.64,
+    "canBeSolution": true
+  },
+  {
+    "word": "PAYS",
+    "search": "PAYS",
+    "frequency": 241.55,
+    "canBeSolution": true
+  },
+  {
+    "word": "IDÉE",
+    "search": "IDEE",
+    "frequency": 241.08,
+    "canBeSolution": true
+  },
+  {
+    "word": "SENS",
+    "search": "SENS",
+    "frequency": 217.5,
+    "canBeSolution": true
+  },
+  {
+    "word": "GROS",
+    "search": "GROS",
+    "frequency": 216.01,
+    "canBeSolution": true
+  },
+  {
+    "word": "LIEU",
+    "search": "LIEU",
+    "frequency": 213.38,
+    "canBeSolution": true
+  },
+  {
+    "word": "FORT",
+    "search": "FORT",
+    "frequency": 212.77,
+    "canBeSolution": true
+  },
+  {
+    "word": "QUOI",
+    "search": "QUOI",
+    "frequency": 210.88,
+    "canBeSolution": true
+  },
+  {
+    "word": "VENT",
+    "search": "VENT",
+    "frequency": 207.64,
+    "canBeSolution": true
+  },
+  {
+    "word": "SANG",
+    "search": "SANG",
+    "frequency": 205.2,
+    "canBeSolution": true
+  },
+  {
+    "word": "BORD",
+    "search": "BORD",
+    "frequency": 197.36,
+    "canBeSolution": true
+  },
+  {
+    "word": "ÉTAT",
+    "search": "ETAT",
+    "frequency": 192.03,
+    "canBeSolution": true
+  },
+  {
+    "word": "NOIR",
+    "search": "NOIR",
+    "frequency": 184.86,
+    "canBeSolution": true
+  },
+  {
+    "word": "PEAU",
+    "search": "PEAU",
+    "frequency": 174.26,
+    "canBeSolution": true
+  },
+  {
+    "word": "CHEF",
+    "search": "CHEF",
+    "frequency": 172.57,
+    "canBeSolution": true
+  },
+  {
+    "word": "LONG",
+    "search": "LONG",
+    "frequency": 170.07,
+    "canBeSolution": true
+  },
+  {
+    "word": "COIN",
+    "search": "COIN",
+    "frequency": 167.09,
+    "canBeSolution": true
+  },
+  {
+    "word": "PRÈS",
+    "search": "PRES",
+    "frequency": 156.96,
+    "canBeSolution": true
+  },
+  {
+    "word": "CAFÉ",
+    "search": "CAFE",
+    "frequency": 154.93,
+    "canBeSolution": true
+  },
+  {
+    "word": "COUR",
+    "search": "COUR",
+    "frequency": 150.14,
+    "canBeSolution": true
+  },
+  {
+    "word": "TYPE",
+    "search": "TYPE",
+    "frequency": 145.95,
+    "canBeSolution": true
+  },
+  {
+    "word": "MURS",
+    "search": "MURS",
+    "frequency": 145.2,
+    "canBeSolution": true
+  },
+  {
+    "word": "RIRE",
+    "search": "RIRE",
+    "frequency": 144.19,
+    "canBeSolution": true
+  },
+  {
+    "word": "AMIS",
+    "search": "AMIS",
+    "frequency": 143.45,
+    "canBeSolution": true
+  },
+  {
+    "word": "JOIE",
+    "search": "JOIE",
+    "frequency": 134.12,
+    "canBeSolution": true
+  },
+  {
+    "word": "GOÛT",
+    "search": "GOUT",
+    "frequency": 124.8,
+    "canBeSolution": true
+  },
+  {
+    "word": "HAUT",
+    "search": "HAUT",
+    "frequency": 121.01,
+    "canBeSolution": true
+  },
+  {
+    "word": "MARI",
+    "search": "MARI",
+    "frequency": 118.38,
+    "canBeSolution": true
+  },
+  {
+    "word": "RUES",
+    "search": "RUES",
+    "frequency": 113.45,
+    "canBeSolution": true
+  },
+  {
+    "word": "ROBE",
+    "search": "ROBE",
+    "frequency": 111.96,
+    "canBeSolution": true
+  },
+  {
+    "word": "PRIX",
+    "search": "PRIX",
+    "frequency": 107.5,
+    "canBeSolution": true
+  },
+  {
+    "word": "DAME",
+    "search": "DAME",
+    "frequency": 106.15,
+    "canBeSolution": true
+  },
+  {
+    "word": "PAIX",
+    "search": "PAIX",
+    "frequency": 103.72,
+    "canBeSolution": true
+  },
+  {
+    "word": "LIRE",
+    "search": "LIRE",
+    "frequency": 103.58,
+    "canBeSolution": true
+  },
+  {
+    "word": "VIDE",
+    "search": "VIDE",
+    "frequency": 102.84,
+    "canBeSolution": true
+  },
+  {
+    "word": "BLEU",
+    "search": "BLEU",
+    "frequency": 100.41,
+    "canBeSolution": true
+  },
+  {
+    "word": "PAIN",
+    "search": "PAIN",
+    "frequency": 99.32,
+    "canBeSolution": true
+  },
+  {
+    "word": "HIER",
+    "search": "HIER",
+    "frequency": 92.64,
+    "canBeSolution": true
+  },
+  {
+    "word": "CHER",
+    "search": "CHER",
+    "frequency": 90.47,
+    "canBeSolution": true
+  },
+  {
+    "word": "RÔLE",
+    "search": "ROLE",
+    "frequency": 88.51,
+    "canBeSolution": true
+  },
+  {
+    "word": "GRIS",
+    "search": "GRIS",
+    "frequency": 88.31,
+    "canBeSolution": true
+  },
+  {
+    "word": "CRIS",
+    "search": "CRIS",
+    "frequency": 83.85,
+    "canBeSolution": true
+  },
+  {
+    "word": "RÊVE",
+    "search": "REVE",
+    "frequency": 80.2,
+    "canBeSolution": true
+  },
+  {
+    "word": "GARE",
+    "search": "GARE",
+    "frequency": 78.58,
+    "canBeSolution": true
+  },
+  {
+    "word": "PAPA",
+    "search": "PAPA",
+    "frequency": 77.16,
+    "canBeSolution": true
+  },
+  {
+    "word": "CUIR",
+    "search": "CUIR",
+    "frequency": 76.08,
+    "canBeSolution": true
+  },
+  {
+    "word": "TROU",
+    "search": "TROU",
+    "frequency": 76.08,
+    "canBeSolution": true
+  },
+  {
+    "word": "CAMP",
+    "search": "CAMP",
+    "frequency": 75.61,
+    "canBeSolution": true
+  },
+  {
+    "word": "FAIM",
+    "search": "FAIM",
+    "frequency": 74.93,
+    "canBeSolution": true
+  },
+  {
+    "word": "SALE",
+    "search": "SALE",
+    "frequency": 74.86,
+    "canBeSolution": false
+  },
+  {
+    "word": "PONT",
+    "search": "PONT",
+    "frequency": 74.59,
+    "canBeSolution": true
+  },
+  {
+    "word": "NORD",
+    "search": "NORD",
+    "frequency": 72.3,
+    "canBeSolution": true
+  },
+  {
+    "word": "FÊTE",
+    "search": "FETE",
+    "frequency": 70.41,
+    "canBeSolution": true
+  },
+  {
+    "word": "LORS",
+    "search": "LORS",
+    "frequency": 70.27,
+    "canBeSolution": true
+  },
+  {
+    "word": "MIDI",
+    "search": "MIDI",
+    "frequency": 68.11,
+    "canBeSolution": true
+  },
+  {
+    "word": "NOMS",
+    "search": "NOMS",
+    "frequency": 68.11,
+    "canBeSolution": true
+  },
+  {
+    "word": "PLAN",
+    "search": "PLAN",
+    "frequency": 67.84,
+    "canBeSolution": true
+  },
+  {
+    "word": "PÂLE",
+    "search": "PALE",
+    "frequency": 67.23,
+    "canBeSolution": true
+  },
+  {
+    "word": "ROSE",
+    "search": "ROSE",
+    "frequency": 66.62,
+    "canBeSolution": true
+  },
+  {
+    "word": "FAUX",
+    "search": "FAUX",
+    "frequency": 66.55,
+    "canBeSolution": true
+  },
+  {
+    "word": "TUER",
+    "search": "TUER",
+    "frequency": 65.54,
+    "canBeSolution": true
+  },
+  {
+    "word": "AVIS",
+    "search": "AVIS",
+    "frequency": 65.14,
+    "canBeSolution": true
+  },
+  {
+    "word": "PORT",
+    "search": "PORT",
+    "frequency": 64.86,
+    "canBeSolution": true
+  },
+  {
+    "word": "LUNE",
+    "search": "LUNE",
+    "frequency": 63.24,
+    "canBeSolution": true
+  },
+  {
+    "word": "BÊTE",
+    "search": "BETE",
+    "frequency": 63.18,
+    "canBeSolution": true
+  },
+  {
+    "word": "LAIT",
+    "search": "LAIT",
+    "frequency": 62.23,
+    "canBeSolution": true
+  },
+  {
+    "word": "PRÊT",
+    "search": "PRET",
+    "frequency": 60.41,
+    "canBeSolution": true
+  },
+  {
+    "word": "CHAT",
+    "search": "CHAT",
+    "frequency": 59.26,
+    "canBeSolution": true
+  },
+  {
+    "word": "GARS",
+    "search": "GARS",
+    "frequency": 59.26,
+    "canBeSolution": true
+  },
+  {
+    "word": "VERT",
+    "search": "VERT",
+    "frequency": 59.12,
+    "canBeSolution": true
+  },
+  {
+    "word": "DOUX",
+    "search": "DOUX",
+    "frequency": 58.72,
+    "canBeSolution": true
+  },
+  {
+    "word": "SORT",
+    "search": "SORT",
+    "frequency": 57.5,
+    "canBeSolution": true
+  },
+  {
+    "word": "BONS",
+    "search": "BONS",
+    "frequency": 57.09,
+    "canBeSolution": true
+  },
+  {
+    "word": "SÛRE",
+    "search": "SURE",
+    "frequency": 56.55,
+    "canBeSolution": true
+  },
+  {
+    "word": "PAGE",
+    "search": "PAGE",
+    "frequency": 55.88,
+    "canBeSolution": true
+  },
+  {
+    "word": "AUBE",
+    "search": "AUBE",
+    "frequency": 55.81,
+    "canBeSolution": true
+  },
+  {
+    "word": "DEMI",
+    "search": "DEMI",
+    "frequency": 55.2,
+    "canBeSolution": true
+  },
+  {
+    "word": "QUAI",
+    "search": "QUAI",
+    "frequency": 55.14,
+    "canBeSolution": true
+  },
+  {
+    "word": "TOIT",
+    "search": "TOIT",
+    "frequency": 54.59,
+    "canBeSolution": true
+  },
+  {
+    "word": "AMIE",
+    "search": "AMIE",
+    "frequency": 54.32,
+    "canBeSolution": true
+  },
+  {
+    "word": "VOIE",
+    "search": "VOIE",
+    "frequency": 53.58,
+    "canBeSolution": true
+  },
+  {
+    "word": "AIDE",
+    "search": "AIDE",
+    "frequency": 52.3,
+    "canBeSolution": true
+  },
+  {
+    "word": "BOUE",
+    "search": "BOUE",
+    "frequency": 52.3,
+    "canBeSolution": true
+  },
+  {
+    "word": "TORT",
+    "search": "TORT",
+    "frequency": 51.55,
+    "canBeSolution": true
+  },
+  {
+    "word": "JUIN",
+    "search": "JUIN",
+    "frequency": 51.28,
+    "canBeSolution": true
+  },
+  {
+    "word": "TRUC",
+    "search": "TRUC",
+    "frequency": 51.15,
+    "canBeSolution": true
+  },
+  {
+    "word": "ABRI",
+    "search": "ABRI",
+    "frequency": 51.08,
+    "canBeSolution": true
+  },
+  {
+    "word": "AISE",
+    "search": "AISE",
+    "frequency": 50.81,
+    "canBeSolution": true
+  },
+  {
+    "word": "SOIE",
+    "search": "SOIE",
+    "frequency": 50.0,
+    "canBeSolution": true
+  },
+  {
+    "word": "AOÛT",
+    "search": "AOUT",
+    "frequency": 49.66,
+    "canBeSolution": true
+  },
+  {
+    "word": "FILM",
+    "search": "FILM",
+    "frequency": 49.53,
+    "canBeSolution": true
+  },
+  {
+    "word": "SACS",
+    "search": "SACS",
+    "frequency": 48.78,
+    "canBeSolution": true
+  },
+  {
+    "word": "BANC",
+    "search": "BANC",
+    "frequency": 48.31,
+    "canBeSolution": true
+  },
+  {
+    "word": "MINE",
+    "search": "MINE",
+    "frequency": 48.18,
+    "canBeSolution": true
+  },
+  {
+    "word": "MODE",
+    "search": "MODE",
+    "frequency": 46.96,
+    "canBeSolution": true
+  },
+  {
+    "word": "CURÉ",
+    "search": "CURE",
+    "frequency": 46.62,
+    "canBeSolution": true
+  },
+  {
+    "word": "SEXE",
+    "search": "SEXE",
+    "frequency": 46.49,
+    "canBeSolution": false
+  },
+  {
+    "word": "JOUE",
+    "search": "JOUE",
+    "frequency": 46.35,
+    "canBeSolution": true
+  },
+  {
+    "word": "SOIN",
+    "search": "SOIN",
+    "frequency": 45.41,
+    "canBeSolution": true
+  },
+  {
+    "word": "HÂTE",
+    "search": "HATE",
+    "frequency": 44.8,
+    "canBeSolution": true
+  },
+  {
+    "word": "JOLI",
+    "search": "JOLI",
+    "frequency": 44.53,
+    "canBeSolution": true
+  },
+  {
+    "word": "PLAT",
+    "search": "PLAT",
+    "frequency": 44.26,
+    "canBeSolution": true
+  },
+  {
+    "word": "RAGE",
+    "search": "RAGE",
+    "frequency": 44.12,
+    "canBeSolution": true
+  },
+  {
+    "word": "BAIN",
+    "search": "BAIN",
+    "frequency": 43.11,
+    "canBeSolution": true
+  },
+  {
+    "word": "VERS",
+    "search": "VERS",
+    "frequency": 43.04,
+    "canBeSolution": true
+  },
+  {
+    "word": "POIL",
+    "search": "POIL",
+    "frequency": 42.91,
+    "canBeSolution": true
+  },
+  {
+    "word": "JEUX",
+    "search": "JEUX",
+    "frequency": 42.64,
+    "canBeSolution": true
+  },
+  {
+    "word": "CAVE",
+    "search": "CAVE",
+    "frequency": 42.09,
+    "canBeSolution": true
+  },
+  {
+    "word": "EAUX",
+    "search": "EAUX",
+    "frequency": 42.03,
+    "canBeSolution": true
+  },
+  {
+    "word": "TAXI",
+    "search": "TAXI",
+    "frequency": 41.22,
+    "canBeSolution": true
+  },
+  {
+    "word": "VAIN",
+    "search": "VAIN",
+    "frequency": 40.14,
+    "canBeSolution": true
+  },
+  {
+    "word": "PIRE",
+    "search": "PIRE",
+    "frequency": 39.8,
+    "canBeSolution": true
+  },
+  {
+    "word": "NOTE",
+    "search": "NOTE",
+    "frequency": 39.32,
+    "canBeSolution": true
+  },
+  {
+    "word": "BREF",
+    "search": "BREF",
+    "frequency": 38.78,
+    "canBeSolution": true
+  },
+  {
+    "word": "PARC",
+    "search": "PARC",
+    "frequency": 38.72,
+    "canBeSolution": true
+  },
+  {
+    "word": "LUXE",
+    "search": "LUXE",
+    "frequency": 38.65,
+    "canBeSolution": true
+  },
+  {
+    "word": "CHOC",
+    "search": "CHOC",
+    "frequency": 37.57,
+    "canBeSolution": true
+  },
+  {
+    "word": "ÉLAN",
+    "search": "ELAN",
+    "frequency": 37.57,
+    "canBeSolution": true
+  },
+  {
+    "word": "RARE",
+    "search": "RARE",
+    "frequency": 37.23,
+    "canBeSolution": true
+  },
+  {
+    "word": "RANG",
+    "search": "RANG",
+    "frequency": 37.16,
+    "canBeSolution": true
+  },
+  {
+    "word": "ARME",
+    "search": "ARME",
+    "frequency": 37.09,
+    "canBeSolution": true
+  },
+  {
+    "word": "MÔME",
+    "search": "MOME",
+    "frequency": 37.03,
+    "canBeSolution": true
+  },
+  {
+    "word": "FEUX",
+    "search": "FEUX",
+    "frequency": 36.76,
+    "canBeSolution": true
+  },
+  {
+    "word": "DATE",
+    "search": "DATE",
+    "frequency": 36.62,
+    "canBeSolution": true
+  },
+  {
+    "word": "BÉBÉ",
+    "search": "BEBE",
+    "frequency": 36.22,
+    "canBeSolution": true
+  },
+  {
+    "word": "MISE",
+    "search": "MISE",
+    "frequency": 36.08,
+    "canBeSolution": true
+  },
+  {
+    "word": "ACTE",
+    "search": "ACTE",
+    "frequency": 35.88,
+    "canBeSolution": true
+  },
+  {
+    "word": "FUIR",
+    "search": "FUIR",
+    "frequency": 35.88,
+    "canBeSolution": true
+  },
+  {
+    "word": "CLEF",
+    "search": "CLEF",
+    "frequency": 35.61,
+    "canBeSolution": true
+  },
+  {
+    "word": "SOIF",
+    "search": "SOIF",
+    "frequency": 35.27,
+    "canBeSolution": true
+  },
+  {
+    "word": "RIVE",
+    "search": "RIVE",
+    "frequency": 35.14,
+    "canBeSolution": true
+  },
+  {
+    "word": "CAGE",
+    "search": "CAGE",
+    "frequency": 34.86,
+    "canBeSolution": true
+  },
+  {
+    "word": "ZONE",
+    "search": "ZONE",
+    "frequency": 34.39,
+    "canBeSolution": true
+  },
+  {
+    "word": "PURE",
+    "search": "PURE",
+    "frequency": 34.19,
+    "canBeSolution": true
+  },
+  {
+    "word": "JUPE",
+    "search": "JUPE",
+    "frequency": 34.05,
+    "canBeSolution": true
+  },
+  {
+    "word": "FINE",
+    "search": "FINE",
+    "frequency": 33.99,
+    "canBeSolution": true
+  },
+  {
+    "word": "DURE",
+    "search": "DURE",
+    "frequency": 33.65,
+    "canBeSolution": true
+  },
+  {
+    "word": "DRAP",
+    "search": "DRAP",
+    "frequency": 33.18,
+    "canBeSolution": true
+  },
+  {
+    "word": "ÉCHO",
+    "search": "ECHO",
+    "frequency": 32.5,
+    "canBeSolution": true
+  },
+  {
+    "word": "SEIN",
+    "search": "SEIN",
+    "frequency": 32.23,
+    "canBeSolution": true
+  },
+  {
+    "word": "BASE",
+    "search": "BASE",
+    "frequency": 31.96,
+    "canBeSolution": true
+  },
+  {
+    "word": "OBUS",
+    "search": "OBUS",
+    "frequency": 31.82,
+    "canBeSolution": true
+  },
+  {
+    "word": "FIER",
+    "search": "FIER",
+    "frequency": 31.42,
+    "canBeSolution": true
+  },
+  {
+    "word": "MARS",
+    "search": "MARS",
+    "frequency": 31.42,
+    "canBeSolution": true
+  },
+  {
+    "word": "ABBÉ",
+    "search": "ABBE",
+    "frequency": 31.28,
+    "canBeSolution": true
+  },
+  {
+    "word": "FLIC",
+    "search": "FLIC",
+    "frequency": 30.95,
+    "canBeSolution": true
+  },
+  {
+    "word": "VIVE",
+    "search": "VIVE",
+    "frequency": 30.61,
+    "canBeSolution": true
+  },
+  {
+    "word": "AUTO",
+    "search": "AUTO",
+    "frequency": 30.34,
+    "canBeSolution": true
+  },
+  {
+    "word": "AIRS",
+    "search": "AIRS",
+    "frequency": 29.8,
+    "canBeSolution": true
+  },
+  {
+    "word": "JUGE",
+    "search": "JUGE",
+    "frequency": 29.8,
+    "canBeSolution": true
+  },
+  {
+    "word": "AGIR",
+    "search": "AGIR",
+    "frequency": 29.66,
+    "canBeSolution": true
+  },
+  {
+    "word": "FLOT",
+    "search": "FLOT",
+    "frequency": 29.59,
+    "canBeSolution": true
+  },
+  {
+    "word": "RACE",
+    "search": "RACE",
+    "frequency": 28.72,
+    "canBeSolution": true
+  },
+  {
+    "word": "SOUS",
+    "search": "SOUS",
+    "frequency": 28.65,
+    "canBeSolution": true
+  },
+  {
+    "word": "BLOC",
+    "search": "BLOC",
+    "frequency": 28.31,
+    "canBeSolution": true
+  },
+  {
+    "word": "ROND",
+    "search": "ROND",
+    "frequency": 28.04,
+    "canBeSolution": true
+  },
+  {
+    "word": "FIXE",
+    "search": "FIXE",
+    "frequency": 27.97,
+    "canBeSolution": true
+  },
+  {
+    "word": "LOIS",
+    "search": "LOIS",
+    "frequency": 27.84,
+    "canBeSolution": true
+  },
+  {
+    "word": "GÊNE",
+    "search": "GENE",
+    "frequency": 26.96,
+    "canBeSolution": true
+  },
+  {
+    "word": "VASE",
+    "search": "VASE",
+    "frequency": 26.76,
+    "canBeSolution": true
+  },
+  {
+    "word": "FRIC",
+    "search": "FRIC",
+    "frequency": 26.35,
+    "canBeSolution": true
+  },
+  {
+    "word": "HALL",
+    "search": "HALL",
+    "frequency": 25.81,
+    "canBeSolution": true
+  },
+  {
+    "word": "LAME",
+    "search": "LAME",
+    "frequency": 25.81,
+    "canBeSolution": true
+  },
+  {
+    "word": "PIPE",
+    "search": "PIPE",
+    "frequency": 25.74,
+    "canBeSolution": true
+  },
+  {
+    "word": "GRAS",
+    "search": "GRAS",
+    "frequency": 25.61,
+    "canBeSolution": true
+  },
+  {
+    "word": "TÉLÉ",
+    "search": "TELE",
+    "frequency": 25.27,
+    "canBeSolution": true
+  },
+  {
+    "word": "FOUR",
+    "search": "FOUR",
+    "frequency": 25.07,
+    "canBeSolution": true
+  },
+  {
+    "word": "FOUS",
+    "search": "FOUS",
+    "frequency": 24.66,
+    "canBeSolution": true
+  },
+  {
+    "word": "ÎLES",
+    "search": "ILES",
+    "frequency": 24.66,
+    "canBeSolution": true
+  },
+  {
+    "word": "PLIS",
+    "search": "PLIS",
+    "frequency": 24.66,
+    "canBeSolution": true
+  },
+  {
+    "word": "VÉLO",
+    "search": "VELO",
+    "frequency": 24.32,
+    "canBeSolution": true
+  },
+  {
+    "word": "SAGE",
+    "search": "SAGE",
+    "frequency": 23.45,
+    "canBeSolution": true
+  },
+  {
+    "word": "LENT",
+    "search": "LENT",
+    "frequency": 23.31,
+    "canBeSolution": true
+  },
+  {
+    "word": "VENU",
+    "search": "VENU",
+    "frequency": 23.24,
+    "canBeSolution": true
+  },
+  {
+    "word": "POTE",
+    "search": "POTE",
+    "frequency": 22.97,
+    "canBeSolution": true
+  },
+  {
+    "word": "RUDE",
+    "search": "RUDE",
+    "frequency": 22.64,
+    "canBeSolution": true
+  },
+  {
+    "word": "LITS",
+    "search": "LITS",
+    "frequency": 22.43,
+    "canBeSolution": true
+  },
+  {
+    "word": "LOUP",
+    "search": "LOUP",
+    "frequency": 22.3,
+    "canBeSolution": true
+  },
+  {
+    "word": "ÂMES",
+    "search": "AMES",
+    "frequency": 22.09,
+    "canBeSolution": true
+  },
+  {
+    "word": "MECS",
+    "search": "MECS",
+    "frequency": 21.89,
+    "canBeSolution": true
+  },
+  {
+    "word": "IVRE",
+    "search": "IVRE",
+    "frequency": 21.76,
+    "canBeSolution": true
+  },
+  {
+    "word": "CENT",
+    "search": "CENT",
+    "frequency": 21.69,
+    "canBeSolution": true
+  },
+  {
+    "word": "ANGE",
+    "search": "ANGE",
+    "frequency": 21.62,
+    "canBeSolution": true
+  },
+  {
+    "word": "FILE",
+    "search": "FILE",
+    "frequency": 21.49,
+    "canBeSolution": true
+  },
+  {
+    "word": "NUES",
+    "search": "NUES",
+    "frequency": 21.42,
+    "canBeSolution": true
+  },
+  {
+    "word": "BRUN",
+    "search": "BRUN",
+    "frequency": 21.35,
+    "canBeSolution": true
+  },
+  {
+    "word": "RIEN",
+    "search": "RIEN",
+    "frequency": 20.81,
+    "canBeSolution": true
+  },
+  {
+    "word": "CITÉ",
+    "search": "CITE",
+    "frequency": 20.68,
+    "canBeSolution": true
+  },
+  {
+    "word": "ROUX",
+    "search": "ROUX",
+    "frequency": 20.68,
+    "canBeSolution": true
+  },
+  {
+    "word": "AILE",
+    "search": "AILE",
+    "frequency": 20.47,
+    "canBeSolution": true
+  },
+  {
+    "word": "DURS",
+    "search": "DURS",
+    "frequency": 20.47,
+    "canBeSolution": true
+  },
+  {
+    "word": "ŒUF",
+    "search": "OEUF",
+    "frequency": 20.34,
+    "canBeSolution": true
+  },
+  {
+    "word": "CERF",
+    "search": "CERF",
+    "frequency": 20.27,
+    "canBeSolution": true
+  },
+  {
+    "word": "ÉGAL",
+    "search": "EGAL",
+    "frequency": 20.27,
+    "canBeSolution": true
+  },
+  {
+    "word": "LION",
+    "search": "LION",
+    "frequency": 20.14,
+    "canBeSolution": true
+  },
+  {
+    "word": "BOND",
+    "search": "BOND",
+    "frequency": 20.07,
+    "canBeSolution": true
+  },
+  {
+    "word": "JUIF",
+    "search": "JUIF",
+    "frequency": 19.86,
+    "canBeSolution": true
+  },
+  {
+    "word": "ROCK",
+    "search": "ROCK",
+    "frequency": 19.53,
+    "canBeSolution": true
+  },
+  {
+    "word": "ÉPÉE",
+    "search": "EPEE",
+    "frequency": 19.12,
+    "canBeSolution": true
+  },
+  {
+    "word": "CONS",
+    "search": "CONS",
+    "frequency": 19.05,
+    "canBeSolution": false
+  },
+  {
+    "word": "CLUB",
+    "search": "CLUB",
+    "frequency": 18.58,
+    "canBeSolution": true
+  },
+  {
+    "word": "SONS",
+    "search": "SONS",
+    "frequency": 18.51,
+    "canBeSolution": true
+  },
+  {
+    "word": "PÂTE",
+    "search": "PATE",
+    "frequency": 18.45,
+    "canBeSolution": true
+  },
+  {
+    "word": "LIEN",
+    "search": "LIEN",
+    "frequency": 18.18,
+    "canBeSolution": true
+  },
+  {
+    "word": "LOGE",
+    "search": "LOGE",
+    "frequency": 18.11,
+    "canBeSolution": true
+  },
+  {
+    "word": "VIES",
+    "search": "VIES",
+    "frequency": 17.84,
+    "canBeSolution": true
+  },
+  {
+    "word": "ROUE",
+    "search": "ROUE",
+    "frequency": 17.77,
+    "canBeSolution": true
+  },
+  {
+    "word": "MOUE",
+    "search": "MOUE",
+    "frequency": 17.43,
+    "canBeSolution": true
+  },
+  {
+    "word": "OURS",
+    "search": "OURS",
+    "frequency": 17.36,
+    "canBeSolution": true
+  },
+  {
+    "word": "CILS",
+    "search": "CILS",
+    "frequency": 17.09,
+    "canBeSolution": true
+  },
+  {
+    "word": "PINS",
+    "search": "PINS",
+    "frequency": 17.09,
+    "canBeSolution": true
+  },
+  {
+    "word": "SECS",
+    "search": "SECS",
+    "frequency": 17.09,
+    "canBeSolution": true
+  },
+  {
+    "word": "RATS",
+    "search": "RATS",
+    "frequency": 16.82,
+    "canBeSolution": true
+  },
+  {
+    "word": "PÉPÉ",
+    "search": "PEPE",
+    "frequency": 16.76,
+    "canBeSolution": true
+  },
+  {
+    "word": "CLIN",
+    "search": "CLIN",
+    "frequency": 16.55,
+    "canBeSolution": true
+  },
+  {
+    "word": "MUET",
+    "search": "MUET",
+    "frequency": 16.55,
+    "canBeSolution": true
+  },
+  {
+    "word": "ZÉRO",
+    "search": "ZERO",
+    "frequency": 16.49,
+    "canBeSolution": true
+  },
+  {
+    "word": "ZINC",
+    "search": "ZINC",
+    "frequency": 16.49,
+    "canBeSolution": true
+  },
+  {
+    "word": "FOIN",
+    "search": "FOIN",
+    "frequency": 16.01,
+    "canBeSolution": true
+  },
+  {
+    "word": "POUR",
+    "search": "POUR",
+    "frequency": 15.95,
+    "canBeSolution": true
+  },
+  {
+    "word": "DORÉ",
+    "search": "DORE",
+    "frequency": 15.74,
+    "canBeSolution": true
+  },
+  {
+    "word": "POTS",
+    "search": "POTS",
+    "frequency": 15.74,
+    "canBeSolution": true
+  },
+  {
+    "word": "FOIE",
+    "search": "FOIE",
+    "frequency": 15.47,
+    "canBeSolution": true
+  },
+  {
+    "word": "CIRE",
+    "search": "CIRE",
+    "frequency": 15.41,
+    "canBeSolution": true
+  },
+  {
+    "word": "MIEL",
+    "search": "MIEL",
+    "frequency": 15.41,
+    "canBeSolution": true
+  },
+  {
+    "word": "MOTO",
+    "search": "MOTO",
+    "frequency": 15.27,
+    "canBeSolution": true
+  },
+  {
+    "word": "POSE",
+    "search": "POSE",
+    "frequency": 15.27,
+    "canBeSolution": true
+  },
+  {
+    "word": "DÉFI",
+    "search": "DEFI",
+    "frequency": 15.2,
+    "canBeSolution": true
+  },
+  {
+    "word": "RÉEL",
+    "search": "REEL",
+    "frequency": 15.2,
+    "canBeSolution": true
+  },
+  {
+    "word": "PROF",
+    "search": "PROF",
+    "frequency": 15.07,
+    "canBeSolution": true
+  },
+  {
+    "word": "BAIE",
+    "search": "BAIE",
+    "frequency": 14.86,
+    "canBeSolution": true
+  },
+  {
+    "word": "GREC",
+    "search": "GREC",
+    "frequency": 14.86,
+    "canBeSolution": true
+  },
+  {
+    "word": "HAIE",
+    "search": "HAIE",
+    "frequency": 14.8,
+    "canBeSolution": true
+  },
+  {
+    "word": "SEAU",
+    "search": "SEAU",
+    "frequency": 14.73,
+    "canBeSolution": true
+  },
+  {
+    "word": "PAPE",
+    "search": "PAPE",
+    "frequency": 14.59,
+    "canBeSolution": true
+  },
+  {
+    "word": "SAUT",
+    "search": "SAUT",
+    "frequency": 14.26,
+    "canBeSolution": true
+  },
+  {
+    "word": "NEUF",
+    "search": "NEUF",
+    "frequency": 14.12,
+    "canBeSolution": true
+  },
+  {
+    "word": "BRIN",
+    "search": "BRIN",
+    "frequency": 13.99,
+    "canBeSolution": true
+  },
+  {
+    "word": "CHOU",
+    "search": "CHOU",
+    "frequency": 13.99,
+    "canBeSolution": true
+  },
+  {
+    "word": "VEAU",
+    "search": "VEAU",
+    "frequency": 13.92,
+    "canBeSolution": true
+  },
+  {
+    "word": "POIS",
+    "search": "POIS",
+    "frequency": 13.72,
+    "canBeSolution": true
+  },
+  {
+    "word": "PUTE",
+    "search": "PUTE",
+    "frequency": 13.65,
+    "canBeSolution": false
+  },
+  {
+    "word": "CLÉS",
+    "search": "CLES",
+    "frequency": 13.58,
+    "canBeSolution": true
+  },
+  {
+    "word": "CODE",
+    "search": "CODE",
+    "frequency": 13.58,
+    "canBeSolution": true
+  },
+  {
+    "word": "EXIL",
+    "search": "EXIL",
+    "frequency": 13.58,
+    "canBeSolution": true
+  },
+  {
+    "word": "CLAN",
+    "search": "CLAN",
+    "frequency": 13.51,
+    "canBeSolution": true
+  },
+  {
+    "word": "AVEU",
+    "search": "AVEU",
+    "frequency": 13.45,
+    "canBeSolution": true
+  },
+  {
+    "word": "VICE",
+    "search": "VICE",
+    "frequency": 13.45,
+    "canBeSolution": true
+  },
+  {
+    "word": "RUSE",
+    "search": "RUSE",
+    "frequency": 13.31,
+    "canBeSolution": true
+  },
+  {
+    "word": "PAVÉ",
+    "search": "PAVE",
+    "frequency": 13.24,
+    "canBeSolution": true
+  },
+  {
+    "word": "BUÉE",
+    "search": "BUEE",
+    "frequency": 13.11,
+    "canBeSolution": true
+  },
+  {
+    "word": "AÎNÉ",
+    "search": "AINE",
+    "frequency": 13.04,
+    "canBeSolution": true
+  },
+  {
+    "word": "ROIS",
+    "search": "ROIS",
+    "frequency": 12.97,
+    "canBeSolution": true
+  },
+  {
+    "word": "KÉPI",
+    "search": "KEPI",
+    "frequency": 12.91,
+    "canBeSolution": true
+  },
+  {
+    "word": "DELÀ",
+    "search": "DELA",
+    "frequency": 12.7,
+    "canBeSolution": true
+  },
+  {
+    "word": "GAIE",
+    "search": "GAIE",
+    "frequency": 12.7,
+    "canBeSolution": true
+  },
+  {
+    "word": "RHUM",
+    "search": "RHUM",
+    "frequency": 12.7,
+    "canBeSolution": true
+  },
+  {
+    "word": "CHIC",
+    "search": "CHIC",
+    "frequency": 12.5,
+    "canBeSolution": true
+  },
+  {
+    "word": "TÔLE",
+    "search": "TOLE",
+    "frequency": 12.5,
+    "canBeSolution": true
+  },
+  {
+    "word": "FINI",
+    "search": "FINI",
+    "frequency": 12.36,
+    "canBeSolution": true
+  },
+  {
+    "word": "MONT",
+    "search": "MONT",
+    "frequency": 12.36,
+    "canBeSolution": true
+  },
+  {
+    "word": "NOIX",
+    "search": "NOIX",
+    "frequency": 12.23,
+    "canBeSolution": true
+  },
+  {
+    "word": "TOUX",
+    "search": "TOUX",
+    "frequency": 12.23,
+    "canBeSolution": true
+  },
+  {
+    "word": "ÂGES",
+    "search": "AGES",
+    "frequency": 12.16,
+    "canBeSolution": true
+  },
+  {
+    "word": "PANS",
+    "search": "PANS",
+    "frequency": 12.16,
+    "canBeSolution": true
+  },
+  {
+    "word": "MENU",
+    "search": "MENU",
+    "frequency": 12.03,
+    "canBeSolution": true
+  },
+  {
+    "word": "AIGU",
+    "search": "AIGU",
+    "frequency": 11.96,
+    "canBeSolution": true
+  },
+  {
+    "word": "AMER",
+    "search": "AMER",
+    "frequency": 11.69,
+    "canBeSolution": true
+  },
+  {
+    "word": "LEVÉ",
+    "search": "LEVE",
+    "frequency": 11.62,
+    "canBeSolution": true
+  },
+  {
+    "word": "OSER",
+    "search": "OSER",
+    "frequency": 11.49,
+    "canBeSolution": true
+  },
+  {
+    "word": "TUBE",
+    "search": "TUBE",
+    "frequency": 11.35,
+    "canBeSolution": true
+  },
+  {
+    "word": "FINS",
+    "search": "FINS",
+    "frequency": 11.22,
+    "canBeSolution": true
+  },
+  {
+    "word": "DENT",
+    "search": "DENT",
+    "frequency": 11.15,
+    "canBeSolution": true
+  },
+  {
+    "word": "PORC",
+    "search": "PORC",
+    "frequency": 11.15,
+    "canBeSolution": true
+  },
+  {
+    "word": "TIGE",
+    "search": "TIGE",
+    "frequency": 11.15,
+    "canBeSolution": true
+  },
+  {
+    "word": "LARD",
+    "search": "LARD",
+    "frequency": 11.01,
+    "canBeSolution": true
+  },
+  {
+    "word": "MERS",
+    "search": "MERS",
+    "frequency": 11.01,
+    "canBeSolution": true
+  },
+  {
+    "word": "HÔTE",
+    "search": "HOTE",
+    "frequency": 10.81,
+    "canBeSolution": true
+  },
+  {
+    "word": "NIER",
+    "search": "NIER",
+    "frequency": 10.68,
+    "canBeSolution": true
+  },
+  {
+    "word": "VŒU",
+    "search": "VOEU",
+    "frequency": 10.61,
+    "canBeSolution": true
+  },
+  {
+    "word": "ZÈLE",
+    "search": "ZELE",
+    "frequency": 10.61,
+    "canBeSolution": true
+  },
+  {
+    "word": "VINS",
+    "search": "VINS",
+    "frequency": 10.54,
+    "canBeSolution": true
+  },
+  {
+    "word": "LAID",
+    "search": "LAID",
+    "frequency": 10.41,
+    "canBeSolution": true
+  },
+  {
+    "word": "TROT",
+    "search": "TROT",
+    "frequency": 10.41,
+    "canBeSolution": true
+  },
+  {
+    "word": "CAPE",
+    "search": "CAPE",
+    "frequency": 10.34,
+    "canBeSolution": true
+  },
+  {
+    "word": "FADE",
+    "search": "FADE",
+    "frequency": 10.34,
+    "canBeSolution": true
+  },
+  {
+    "word": "CLOU",
+    "search": "CLOU",
+    "frequency": 10.2,
+    "canBeSolution": true
+  },
+  {
+    "word": "INSU",
+    "search": "INSU",
+    "frequency": 10.2,
+    "canBeSolution": true
+  },
+  {
+    "word": "ÂCRE",
+    "search": "ACRE",
+    "frequency": 10.14,
+    "canBeSolution": true
+  },
+  {
+    "word": "VIFS",
+    "search": "VIFS",
+    "frequency": 10.14,
+    "canBeSolution": true
+  },
+  {
+    "word": "SLIP",
+    "search": "SLIP",
+    "frequency": 10.07,
+    "canBeSolution": true
+  },
+  {
+    "word": "ARTS",
+    "search": "ARTS",
+    "frequency": 10.0,
+    "canBeSolution": true
+  },
+  {
+    "word": "MÂLE",
+    "search": "MALE",
+    "frequency": 10.0,
+    "canBeSolution": true
+  },
+  {
+    "word": "ÔTER",
+    "search": "OTER",
+    "frequency": 10.0,
+    "canBeSolution": true
+  },
+  {
+    "word": "SÛRS",
+    "search": "SURS",
+    "frequency": 10.0,
+    "canBeSolution": true
+  },
+  {
+    "word": "MISS",
+    "search": "MISS",
+    "frequency": 9.86,
+    "canBeSolution": true
+  },
+  {
+    "word": "SOIT",
+    "search": "SOIT",
+    "frequency": 9.73,
+    "canBeSolution": true
+  },
+  {
+    "word": "USER",
+    "search": "USER",
+    "frequency": 9.73,
+    "canBeSolution": true
+  },
+  {
+    "word": "DONS",
+    "search": "DONS",
+    "frequency": 9.59,
+    "canBeSolution": true
+  },
+  {
+    "word": "NAÏF",
+    "search": "NAIF",
+    "frequency": 9.59,
+    "canBeSolution": true
+  },
+  {
+    "word": "POLI",
+    "search": "POLI",
+    "frequency": 9.53,
+    "canBeSolution": true
+  },
+  {
+    "word": "CASE",
+    "search": "CASE",
+    "frequency": 9.46,
+    "canBeSolution": true
+  },
+  {
+    "word": "AZUR",
+    "search": "AZUR",
+    "frequency": 9.39,
+    "canBeSolution": true
+  },
+  {
+    "word": "AMAS",
+    "search": "AMAS",
+    "frequency": 9.32,
+    "canBeSolution": true
+  },
+  {
+    "word": "DOSE",
+    "search": "DOSE",
+    "frequency": 9.32,
+    "canBeSolution": true
+  },
+  {
+    "word": "TIRE",
+    "search": "TIRE",
+    "frequency": 9.32,
+    "canBeSolution": true
+  },
+  {
+    "word": "RADE",
+    "search": "RADE",
+    "frequency": 9.26,
+    "canBeSolution": true
+  },
+  {
+    "word": "PIPI",
+    "search": "PIPI",
+    "frequency": 9.19,
+    "canBeSolution": true
+  },
+  {
+    "word": "ÂGÉE",
+    "search": "AGEE",
+    "frequency": 8.92,
+    "canBeSolution": true
+  },
+  {
+    "word": "BOUC",
+    "search": "BOUC",
+    "frequency": 8.92,
+    "canBeSolution": true
+  },
+  {
+    "word": "BARS",
+    "search": "BARS",
+    "frequency": 8.78,
+    "canBeSolution": true
+  },
+  {
+    "word": "MAUX",
+    "search": "MAUX",
+    "frequency": 8.78,
+    "canBeSolution": true
+  },
+  {
+    "word": "ABUS",
+    "search": "ABUS",
+    "frequency": 8.58,
+    "canBeSolution": true
+  },
+  {
+    "word": "LACS",
+    "search": "LACS",
+    "frequency": 8.58,
+    "canBeSolution": true
+  },
+  {
+    "word": "SAIN",
+    "search": "SAIN",
+    "frequency": 8.58,
+    "canBeSolution": true
+  },
+  {
+    "word": "BUTS",
+    "search": "BUTS",
+    "frequency": 8.51,
+    "canBeSolution": true
+  },
+  {
+    "word": "PRIS",
+    "search": "PRIS",
+    "frequency": 8.45,
+    "canBeSolution": true
+  },
+  {
+    "word": "RITE",
+    "search": "RITE",
+    "frequency": 8.45,
+    "canBeSolution": true
+  },
+  {
+    "word": "BIDE",
+    "search": "BIDE",
+    "frequency": 8.38,
+    "canBeSolution": true
+  },
+  {
+    "word": "VUES",
+    "search": "VUES",
+    "frequency": 8.38,
+    "canBeSolution": true
+  },
+  {
+    "word": "TRAC",
+    "search": "TRAC",
+    "frequency": 8.24,
+    "canBeSolution": true
+  },
+  {
+    "word": "BISE",
+    "search": "BISE",
+    "frequency": 8.11,
+    "canBeSolution": true
+  },
+  {
+    "word": "JAZZ",
+    "search": "JAZZ",
+    "frequency": 8.11,
+    "canBeSolution": true
+  },
+  {
+    "word": "SCIE",
+    "search": "SCIE",
+    "frequency": 8.11,
+    "canBeSolution": true
+  },
+  {
+    "word": "GANT",
+    "search": "GANT",
+    "frequency": 7.97,
+    "canBeSolution": true
+  },
+  {
+    "word": "METS",
+    "search": "METS",
+    "frequency": 7.97,
+    "canBeSolution": true
+  },
+  {
+    "word": "CHAR",
+    "search": "CHAR",
+    "frequency": 7.91,
+    "canBeSolution": true
+  },
+  {
+    "word": "TONS",
+    "search": "TONS",
+    "frequency": 7.91,
+    "canBeSolution": true
+  },
+  {
+    "word": "ÂPRE",
+    "search": "APRE",
+    "frequency": 7.7,
+    "canBeSolution": true
+  },
+  {
+    "word": "FERS",
+    "search": "FERS",
+    "frequency": 7.7,
+    "canBeSolution": true
+  },
+  {
+    "word": "BOXE",
+    "search": "BOXE",
+    "frequency": 7.64,
+    "canBeSolution": true
+  },
+  {
+    "word": "NANA",
+    "search": "NANA",
+    "frequency": 7.64,
+    "canBeSolution": true
+  },
+  {
+    "word": "HALO",
+    "search": "HALO",
+    "frequency": 7.5,
+    "canBeSolution": true
+  },
+  {
+    "word": "PAYE",
+    "search": "PAYE",
+    "frequency": 7.5,
+    "canBeSolution": true
+  },
+  {
+    "word": "RAIE",
+    "search": "RAIE",
+    "frequency": 7.5,
+    "canBeSolution": true
+  },
+  {
+    "word": "GUET",
+    "search": "GUET",
+    "frequency": 7.43,
+    "canBeSolution": true
+  },
+  {
+    "word": "DUPE",
+    "search": "DUPE",
+    "frequency": 7.36,
+    "canBeSolution": true
+  },
+  {
+    "word": "FIFI",
+    "search": "FIFI",
+    "frequency": 7.36,
+    "canBeSolution": true
+  },
+  {
+    "word": "SUIE",
+    "search": "SUIE",
+    "frequency": 7.3,
+    "canBeSolution": true
+  },
+  {
+    "word": "BALS",
+    "search": "BALS",
+    "frequency": 7.23,
+    "canBeSolution": true
+  },
+  {
+    "word": "BLED",
+    "search": "BLED",
+    "frequency": 7.23,
+    "canBeSolution": true
+  },
+  {
+    "word": "BUIS",
+    "search": "BUIS",
+    "frequency": 7.23,
+    "canBeSolution": true
+  },
+  {
+    "word": "VIOL",
+    "search": "VIOL",
+    "frequency": 7.23,
+    "canBeSolution": false
+  },
+  {
+    "word": "AURA",
+    "search": "AURA",
+    "frequency": 7.16,
+    "canBeSolution": true
+  },
+  {
+    "word": "GOLF",
+    "search": "GOLF",
+    "frequency": 7.16,
+    "canBeSolution": true
+  },
+  {
+    "word": "NÉON",
+    "search": "NEON",
+    "frequency": 7.16,
+    "canBeSolution": true
+  },
+  {
+    "word": "ÉTUI",
+    "search": "ETUI",
+    "frequency": 7.09,
+    "canBeSolution": true
+  },
+  {
+    "word": "HAÏR",
+    "search": "HAIR",
+    "frequency": 7.09,
+    "canBeSolution": true
+  },
+  {
+    "word": "POUX",
+    "search": "POUX",
+    "frequency": 7.09,
+    "canBeSolution": true
+  },
+  {
+    "word": "VOLS",
+    "search": "VOLS",
+    "frequency": 7.09,
+    "canBeSolution": true
+  },
+  {
+    "word": "PULL",
+    "search": "PULL",
+    "frequency": 7.03,
+    "canBeSolution": true
+  },
+  {
+    "word": "SÈVE",
+    "search": "SEVE",
+    "frequency": 7.03,
+    "canBeSolution": true
+  },
+  {
+    "word": "CRAN",
+    "search": "CRAN",
+    "frequency": 6.96,
+    "canBeSolution": true
+  },
+  {
+    "word": "JEAN",
+    "search": "JEAN",
+    "frequency": 6.96,
+    "canBeSolution": true
+  },
+  {
+    "word": "FROC",
+    "search": "FROC",
+    "frequency": 6.89,
+    "canBeSolution": true
+  },
+  {
+    "word": "PURS",
+    "search": "PURS",
+    "frequency": 6.89,
+    "canBeSolution": true
+  },
+  {
+    "word": "CAÏD",
+    "search": "CAID",
+    "frequency": 6.82,
+    "canBeSolution": true
+  },
+  {
+    "word": "JAIS",
+    "search": "JAIS",
+    "frequency": 6.82,
+    "canBeSolution": true
+  },
+  {
+    "word": "TSAR",
+    "search": "TSAR",
+    "frequency": 6.82,
+    "canBeSolution": true
+  },
+  {
+    "word": "LORD",
+    "search": "LORD",
+    "frequency": 6.69,
+    "canBeSolution": true
+  },
+  {
+    "word": "NAIN",
+    "search": "NAIN",
+    "frequency": 6.69,
+    "canBeSolution": true
+  },
+  {
+    "word": "LIER",
+    "search": "LIER",
+    "frequency": 6.62,
+    "canBeSolution": true
+  },
+  {
+    "word": "RASE",
+    "search": "RASE",
+    "frequency": 6.62,
+    "canBeSolution": true
+  },
+  {
+    "word": "MLLE",
+    "search": "MLLE",
+    "frequency": 6.55,
+    "canBeSolution": true
+  },
+  {
+    "word": "NOCE",
+    "search": "NOCE",
+    "frequency": 6.55,
+    "canBeSolution": true
+  },
+  {
+    "word": "ÎLOT",
+    "search": "ILOT",
+    "frequency": 6.49,
+    "canBeSolution": true
+  },
+  {
+    "word": "STOP",
+    "search": "STOP",
+    "frequency": 6.49,
+    "canBeSolution": true
+  },
+  {
+    "word": "FLUX",
+    "search": "FLUX",
+    "frequency": 6.42,
+    "canBeSolution": true
+  },
+  {
+    "word": "IRIS",
+    "search": "IRIS",
+    "frequency": 6.42,
+    "canBeSolution": true
+  },
+  {
+    "word": "JETS",
+    "search": "JETS",
+    "frequency": 6.42,
+    "canBeSolution": true
+  },
+  {
+    "word": "MAÏS",
+    "search": "MAIS",
+    "frequency": 6.42,
+    "canBeSolution": true
+  },
+  {
+    "word": "CRUE",
+    "search": "CRUE",
+    "frequency": 6.35,
+    "canBeSolution": true
+  },
+  {
+    "word": "STAR",
+    "search": "STAR",
+    "frequency": 6.35,
+    "canBeSolution": true
+  },
+  {
+    "word": "BUTÉ",
+    "search": "BUTE",
+    "frequency": 6.28,
+    "canBeSolution": true
+  },
+  {
+    "word": "NAGE",
+    "search": "NAGE",
+    "frequency": 6.22,
+    "canBeSolution": true
+  },
+  {
+    "word": "TITI",
+    "search": "TITI",
+    "frequency": 6.15,
+    "canBeSolution": true
+  },
+  {
+    "word": "AIMÉ",
+    "search": "AIME",
+    "frequency": 6.08,
+    "canBeSolution": true
+  },
+  {
+    "word": "COCO",
+    "search": "COCO",
+    "frequency": 6.08,
+    "canBeSolution": true
+  },
+  {
+    "word": "FLOU",
+    "search": "FLOU",
+    "frequency": 6.08,
+    "canBeSolution": true
+  },
+  {
+    "word": "CRAC",
+    "search": "CRAC",
+    "frequency": 6.01,
+    "canBeSolution": true
+  },
+  {
+    "word": "ONDE",
+    "search": "ONDE",
+    "frequency": 6.01,
+    "canBeSolution": true
+  },
+  {
+    "word": "NOËL",
+    "search": "NOEL",
+    "frequency": 5.95,
+    "canBeSolution": true
+  },
+  {
+    "word": "ÉMOI",
+    "search": "EMOI",
+    "frequency": 5.88,
+    "canBeSolution": true
+  },
+  {
+    "word": "RÂLE",
+    "search": "RALE",
+    "frequency": 5.88,
+    "canBeSolution": true
+  },
+  {
+    "word": "GÎTE",
+    "search": "GITE",
+    "frequency": 5.81,
+    "canBeSolution": true
+  },
+  {
+    "word": "CUBE",
+    "search": "CUBE",
+    "frequency": 5.74,
+    "canBeSolution": true
+  },
+  {
+    "word": "RAME",
+    "search": "RAME",
+    "frequency": 5.74,
+    "canBeSolution": true
+  },
+  {
+    "word": "TAPE",
+    "search": "TAPE",
+    "frequency": 5.74,
+    "canBeSolution": true
+  },
+  {
+    "word": "TIFS",
+    "search": "TIFS",
+    "frequency": 5.74,
+    "canBeSolution": true
+  },
+  {
+    "word": "ÂTRE",
+    "search": "ATRE",
+    "frequency": 5.61,
+    "canBeSolution": true
+  },
+  {
+    "word": "COLS",
+    "search": "COLS",
+    "frequency": 5.61,
+    "canBeSolution": true
+  },
+  {
+    "word": "FIGÉ",
+    "search": "FIGE",
+    "frequency": 5.61,
+    "canBeSolution": true
+  },
+  {
+    "word": "FOOT",
+    "search": "FOOT",
+    "frequency": 5.54,
+    "canBeSolution": true
+  },
+  {
+    "word": "COKE",
+    "search": "COKE",
+    "frequency": 5.47,
+    "canBeSolution": true
+  },
+  {
+    "word": "DÉÇU",
+    "search": "DECU",
+    "frequency": 5.47,
+    "canBeSolution": true
+  },
+  {
+    "word": "SAUF",
+    "search": "SAUF",
+    "frequency": 5.47,
+    "canBeSolution": true
+  },
+  {
+    "word": "BLÉS",
+    "search": "BLES",
+    "frequency": 5.41,
+    "canBeSolution": true
+  },
+  {
+    "word": "MOUS",
+    "search": "MOUS",
+    "frequency": 5.41,
+    "canBeSolution": true
+  },
+  {
+    "word": "KAKI",
+    "search": "KAKI",
+    "frequency": 5.34,
+    "canBeSolution": true
+  },
+  {
+    "word": "PIEU",
+    "search": "PIEU",
+    "frequency": 5.34,
+    "canBeSolution": true
+  },
+  {
+    "word": "TRIO",
+    "search": "TRIO",
+    "frequency": 5.34,
+    "canBeSolution": true
+  },
+  {
+    "word": "KILO",
+    "search": "KILO",
+    "frequency": 5.27,
+    "canBeSolution": true
+  },
+  {
+    "word": "POPE",
+    "search": "POPE",
+    "frequency": 5.2,
+    "canBeSolution": true
+  },
+  {
+    "word": "VRAC",
+    "search": "VRAC",
+    "frequency": 5.2,
+    "canBeSolution": true
+  },
+  {
+    "word": "DAIM",
+    "search": "DAIM",
+    "frequency": 5.14,
+    "canBeSolution": true
+  },
+  {
+    "word": "JURY",
+    "search": "JURY",
+    "frequency": 5.14,
+    "canBeSolution": true
+  },
+  {
+    "word": "SIDA",
+    "search": "SIDA",
+    "frequency": 5.14,
+    "canBeSolution": true
+  },
+  {
+    "word": "TÊTU",
+    "search": "TETU",
+    "frequency": 5.14,
+    "canBeSolution": true
+  },
+  {
+    "word": "UNIR",
+    "search": "UNIR",
+    "frequency": 5.14,
+    "canBeSolution": true
+  },
+  {
+    "word": "BOLS",
+    "search": "BOLS",
+    "frequency": 5.07,
+    "canBeSolution": true
+  },
+  {
+    "word": "TICS",
+    "search": "TICS",
+    "frequency": 5.0,
+    "canBeSolution": true
+  },
+  {
+    "word": "BITE",
+    "search": "BITE",
+    "frequency": 4.93,
+    "canBeSolution": false
+  },
+  {
+    "word": "DUEL",
+    "search": "DUEL",
+    "frequency": 4.93,
+    "canBeSolution": true
+  },
+  {
+    "word": "PNEU",
+    "search": "PNEU",
+    "frequency": 4.93,
+    "canBeSolution": true
+  },
+  {
+    "word": "ANSE",
+    "search": "ANSE",
+    "frequency": 4.86,
+    "canBeSolution": true
+  },
+  {
+    "word": "COMA",
+    "search": "COMA",
+    "frequency": 4.86,
+    "canBeSolution": true
+  },
+  {
+    "word": "ORÉE",
+    "search": "OREE",
+    "frequency": 4.86,
+    "canBeSolution": true
+  },
+  {
+    "word": "PÉDÉ",
+    "search": "PEDE",
+    "frequency": 4.86,
+    "canBeSolution": false
+  },
+  {
+    "word": "CALE",
+    "search": "CALE",
+    "frequency": 4.8,
+    "canBeSolution": true
+  },
+  {
+    "word": "MÛRE",
+    "search": "MURE",
+    "frequency": 4.8,
+    "canBeSolution": true
+  },
+  {
+    "word": "TACT",
+    "search": "TACT",
+    "frequency": 4.8,
+    "canBeSolution": true
+  },
+  {
+    "word": "BATH",
+    "search": "BATH",
+    "frequency": 4.73,
+    "canBeSolution": true
+  },
+  {
+    "word": "CUIT",
+    "search": "CUIT",
+    "frequency": 4.73,
+    "canBeSolution": true
+  },
+  {
+    "word": "FARD",
+    "search": "FARD",
+    "frequency": 4.73,
+    "canBeSolution": true
+  },
+  {
+    "word": "FÉES",
+    "search": "FEES",
+    "frequency": 4.73,
+    "canBeSolution": true
+  },
+  {
+    "word": "OCRE",
+    "search": "OCRE",
+    "frequency": 4.73,
+    "canBeSolution": true
+  },
+  {
+    "word": "SOFA",
+    "search": "SOFA",
+    "frequency": 4.73,
+    "canBeSolution": true
+  },
+  {
+    "word": "BILE",
+    "search": "BILE",
+    "frequency": 4.66,
+    "canBeSolution": true
+  },
+  {
+    "word": "OGRE",
+    "search": "OGRE",
+    "frequency": 4.66,
+    "canBeSolution": true
+  },
+  {
+    "word": "RUÉE",
+    "search": "RUEE",
+    "frequency": 4.66,
+    "canBeSolution": true
+  },
+  {
+    "word": "TOME",
+    "search": "TOME",
+    "frequency": 4.66,
+    "canBeSolution": true
+  },
+  {
+    "word": "CAME",
+    "search": "CAME",
+    "frequency": 4.59,
+    "canBeSolution": true
+  },
+  {
+    "word": "PARI",
+    "search": "PARI",
+    "frequency": 4.59,
+    "canBeSolution": true
+  },
+  {
+    "word": "AIRE",
+    "search": "AIRE",
+    "frequency": 4.46,
+    "canBeSolution": true
+  },
+  {
+    "word": "CIME",
+    "search": "CIME",
+    "frequency": 4.46,
+    "canBeSolution": true
+  },
+  {
+    "word": "CINÉ",
+    "search": "CINE",
+    "frequency": 4.46,
+    "canBeSolution": true
+  },
+  {
+    "word": "ÉTAU",
+    "search": "ETAU",
+    "frequency": 4.39,
+    "canBeSolution": true
+  },
+  {
+    "word": "RING",
+    "search": "RING",
+    "frequency": 4.39,
+    "canBeSolution": true
+  },
+  {
+    "word": "GAIN",
+    "search": "GAIN",
+    "frequency": 4.32,
+    "canBeSolution": true
+  },
+  {
+    "word": "VEXÉ",
+    "search": "VEXE",
+    "frequency": 4.32,
+    "canBeSolution": true
+  },
+  {
+    "word": "ÂNES",
+    "search": "ANES",
+    "frequency": 4.26,
+    "canBeSolution": true
+  },
+  {
+    "word": "MULE",
+    "search": "MULE",
+    "frequency": 4.26,
+    "canBeSolution": true
+  },
+  {
+    "word": "NIDS",
+    "search": "NIDS",
+    "frequency": 4.26,
+    "canBeSolution": true
+  },
+  {
+    "word": "ROCS",
+    "search": "ROCS",
+    "frequency": 4.26,
+    "canBeSolution": true
+  },
+  {
+    "word": "TURC",
+    "search": "TURC",
+    "frequency": 4.26,
+    "canBeSolution": true
+  },
+  {
+    "word": "DOUÉ",
+    "search": "DOUE",
+    "frequency": 4.19,
+    "canBeSolution": true
+  },
+  {
+    "word": "NETS",
+    "search": "NETS",
+    "frequency": 4.19,
+    "canBeSolution": true
+  },
+  {
+    "word": "RAVI",
+    "search": "RAVI",
+    "frequency": 4.19,
+    "canBeSolution": true
+  },
+  {
+    "word": "ÉLUS",
+    "search": "ELUS",
+    "frequency": 4.12,
+    "canBeSolution": true
+  },
+  {
+    "word": "GAIS",
+    "search": "GAIS",
+    "frequency": 4.12,
+    "canBeSolution": true
+  },
+  {
+    "word": "OIES",
+    "search": "OIES",
+    "frequency": 4.12,
+    "canBeSolution": true
+  },
+  {
+    "word": "SAPE",
+    "search": "SAPE",
+    "frequency": 4.12,
+    "canBeSolution": true
+  },
+  {
+    "word": "GAGE",
+    "search": "GAGE",
+    "frequency": 4.05,
+    "canBeSolution": true
+  },
+  {
+    "word": "GLAS",
+    "search": "GLAS",
+    "frequency": 4.05,
+    "canBeSolution": true
+  },
+  {
+    "word": "GRÈS",
+    "search": "GRES",
+    "frequency": 4.05,
+    "canBeSolution": true
+  },
+  {
+    "word": "ISBA",
+    "search": "ISBA",
+    "frequency": 4.05,
+    "canBeSolution": true
+  },
+  {
+    "word": "JETÉ",
+    "search": "JETE",
+    "frequency": 4.05,
+    "canBeSolution": true
+  },
+  {
+    "word": "USÉS",
+    "search": "USES",
+    "frequency": 4.05,
+    "canBeSolution": true
+  },
+  {
+    "word": "AVAL",
+    "search": "AVAL",
+    "frequency": 3.99,
+    "canBeSolution": true
+  },
+  {
+    "word": "CARS",
+    "search": "CARS",
+    "frequency": 3.99,
+    "canBeSolution": true
+  },
+  {
+    "word": "ÉPIS",
+    "search": "EPIS",
+    "frequency": 3.99,
+    "canBeSolution": true
+  },
+  {
+    "word": "NUÉE",
+    "search": "NUEE",
+    "frequency": 3.99,
+    "canBeSolution": true
+  },
+  {
+    "word": "CRIN",
+    "search": "CRIN",
+    "frequency": 3.92,
+    "canBeSolution": true
+  },
+  {
+    "word": "ÉTÉS",
+    "search": "ETES",
+    "frequency": 3.92,
+    "canBeSolution": true
+  },
+  {
+    "word": "NERF",
+    "search": "NERF",
+    "frequency": 3.92,
+    "canBeSolution": true
+  },
+  {
+    "word": "PAIR",
+    "search": "PAIR",
+    "frequency": 3.92,
+    "canBeSolution": true
+  },
+  {
+    "word": "POUF",
+    "search": "POUF",
+    "frequency": 3.92,
+    "canBeSolution": false
+  },
+  {
+    "word": "CULS",
+    "search": "CULS",
+    "frequency": 3.85,
+    "canBeSolution": false
+  },
+  {
+    "word": "PAON",
+    "search": "PAON",
+    "frequency": 3.85,
+    "canBeSolution": true
+  },
+  {
+    "word": "BAVE",
+    "search": "BAVE",
+    "frequency": 3.78,
+    "canBeSolution": true
+  },
+  {
+    "word": "DÔME",
+    "search": "DOME",
+    "frequency": 3.78,
+    "canBeSolution": true
+  },
+  {
+    "word": "ÉMUE",
+    "search": "EMUE",
+    "frequency": 3.78,
+    "canBeSolution": true
+  },
+  {
+    "word": "MATE",
+    "search": "MATE",
+    "frequency": 3.72,
+    "canBeSolution": true
+  },
+  {
+    "word": "VÊTU",
+    "search": "VETU",
+    "frequency": 3.72,
+    "canBeSolution": true
+  },
+  {
+    "word": "VOTE",
+    "search": "VOTE",
+    "frequency": 3.72,
+    "canBeSolution": true
+  },
+  {
+    "word": "BECS",
+    "search": "BECS",
+    "frequency": 3.65,
+    "canBeSolution": true
+  },
+  {
+    "word": "MÂTS",
+    "search": "MATS",
+    "frequency": 3.65,
+    "canBeSolution": true
+  },
+  {
+    "word": "DRUE",
+    "search": "DRUE",
+    "frequency": 3.58,
+    "canBeSolution": true
+  },
+  {
+    "word": "IODE",
+    "search": "IODE",
+    "frequency": 3.58,
+    "canBeSolution": true
+  },
+  {
+    "word": "ISSU",
+    "search": "ISSU",
+    "frequency": 3.58,
+    "canBeSolution": true
+  },
+  {
+    "word": "ORGE",
+    "search": "ORGE",
+    "frequency": 3.58,
+    "canBeSolution": true
+  },
+  {
+    "word": "PION",
+    "search": "PION",
+    "frequency": 3.58,
+    "canBeSolution": true
+  },
+  {
+    "word": "PUCE",
+    "search": "PUCE",
+    "frequency": 3.58,
+    "canBeSolution": true
+  },
+  {
+    "word": "SITE",
+    "search": "SITE",
+    "frequency": 3.58,
+    "canBeSolution": true
+  },
+  {
+    "word": "BROC",
+    "search": "BROC",
+    "frequency": 3.51,
+    "canBeSolution": true
+  },
+  {
+    "word": "GAZE",
+    "search": "GAZE",
+    "frequency": 3.51,
+    "canBeSolution": true
+  },
+  {
+    "word": "GONG",
+    "search": "GONG",
+    "frequency": 3.51,
+    "canBeSolution": true
+  },
+  {
+    "word": "MAÏA",
+    "search": "MAIA",
+    "frequency": 3.51,
+    "canBeSolution": true
+  },
+  {
+    "word": "RAYÉ",
+    "search": "RAYE",
+    "frequency": 3.51,
+    "canBeSolution": true
+  },
+  {
+    "word": "RIDE",
+    "search": "RIDE",
+    "frequency": 3.51,
+    "canBeSolution": true
+  },
+  {
+    "word": "COQS",
+    "search": "COQS",
+    "frequency": 3.45,
+    "canBeSolution": true
+  },
+  {
+    "word": "DUNE",
+    "search": "DUNE",
+    "frequency": 3.45,
+    "canBeSolution": true
+  },
+  {
+    "word": "MÔLE",
+    "search": "MOLE",
+    "frequency": 3.45,
+    "canBeSolution": true
+  },
+  {
+    "word": "ÉTAL",
+    "search": "ETAL",
+    "frequency": 3.38,
+    "canBeSolution": true
+  },
+  {
+    "word": "JADE",
+    "search": "JADE",
+    "frequency": 3.38,
+    "canBeSolution": true
+  },
+  {
+    "word": "OUÏE",
+    "search": "OUIE",
+    "frequency": 3.38,
+    "canBeSolution": true
+  },
+  {
+    "word": "BRUT",
+    "search": "BRUT",
+    "frequency": 3.31,
+    "canBeSolution": true
+  },
+  {
+    "word": "VOLÉ",
+    "search": "VOLE",
+    "frequency": 3.31,
+    "canBeSolution": true
+  },
+  {
+    "word": "ARCS",
+    "search": "ARCS",
+    "frequency": 3.24,
+    "canBeSolution": true
+  },
+  {
+    "word": "FÛTS",
+    "search": "FUTS",
+    "frequency": 3.24,
+    "canBeSolution": true
+  },
+  {
+    "word": "LADY",
+    "search": "LADY",
+    "frequency": 3.24,
+    "canBeSolution": true
+  },
+  {
+    "word": "LAVÉ",
+    "search": "LAVE",
+    "frequency": 3.24,
+    "canBeSolution": true
+  },
+  {
+    "word": "UNIS",
+    "search": "UNIS",
+    "frequency": 3.24,
+    "canBeSolution": true
+  },
+  {
+    "word": "USÉE",
+    "search": "USEE",
+    "frequency": 3.24,
+    "canBeSolution": true
+  },
+  {
+    "word": "BURE",
+    "search": "BURE",
+    "frequency": 3.18,
+    "canBeSolution": true
+  },
+  {
+    "word": "CLOS",
+    "search": "CLOS",
+    "frequency": 3.18,
+    "canBeSolution": true
+  },
+  {
+    "word": "COOL",
+    "search": "COOL",
+    "frequency": 3.18,
+    "canBeSolution": true
+  },
+  {
+    "word": "RUER",
+    "search": "RUER",
+    "frequency": 3.18,
+    "canBeSolution": true
+  },
+  {
+    "word": "DITE",
+    "search": "DITE",
+    "frequency": 3.11,
+    "canBeSolution": true
+  },
+  {
+    "word": "ÉCUS",
+    "search": "ECUS",
+    "frequency": 3.11,
+    "canBeSolution": true
+  },
+  {
+    "word": "KAWA",
+    "search": "KAWA",
+    "frequency": 3.11,
+    "canBeSolution": true
+  },
+  {
+    "word": "VEUF",
+    "search": "VEUF",
+    "frequency": 3.11,
+    "canBeSolution": true
+  },
+  {
+    "word": "DAIS",
+    "search": "DAIS",
+    "frequency": 3.04,
+    "canBeSolution": true
+  },
+  {
+    "word": "GANG",
+    "search": "GANG",
+    "frequency": 3.04,
+    "canBeSolution": true
+  },
+  {
+    "word": "GELÉ",
+    "search": "GELE",
+    "frequency": 3.04,
+    "canBeSolution": true
+  },
+  {
+    "word": "TARE",
+    "search": "TARE",
+    "frequency": 3.04,
+    "canBeSolution": true
+  },
+  {
+    "word": "DEÇÀ",
+    "search": "DECA",
+    "frequency": 2.97,
+    "canBeSolution": true
+  },
+  {
+    "word": "GALA",
+    "search": "GALA",
+    "frequency": 2.97,
+    "canBeSolution": true
+  },
+  {
+    "word": "NAZI",
+    "search": "NAZI",
+    "frequency": 2.97,
+    "canBeSolution": true
+  },
+  {
+    "word": "NOYÉ",
+    "search": "NOYE",
+    "frequency": 2.97,
+    "canBeSolution": true
+  },
+  {
+    "word": "DUCE",
+    "search": "DUCE",
+    "frequency": 2.91,
+    "canBeSolution": true
+  },
+  {
+    "word": "LIME",
+    "search": "LIME",
+    "frequency": 2.91,
+    "canBeSolution": true
+  },
+  {
+    "word": "MARC",
+    "search": "MARC",
+    "frequency": 2.91,
+    "canBeSolution": true
+  },
+  {
+    "word": "TENU",
+    "search": "TENU",
+    "frequency": 2.91,
+    "canBeSolution": true
+  },
+  {
+    "word": "TEST",
+    "search": "TEST",
+    "frequency": 2.91,
+    "canBeSolution": true
+  },
+  {
+    "word": "COCU",
+    "search": "COCU",
+    "frequency": 2.84,
+    "canBeSolution": true
+  },
+  {
+    "word": "COÏT",
+    "search": "COIT",
+    "frequency": 2.84,
+    "canBeSolution": true
+  },
+  {
+    "word": "GRUE",
+    "search": "GRUE",
+    "frequency": 2.84,
+    "canBeSolution": true
+  },
+  {
+    "word": "HÂLE",
+    "search": "HALE",
+    "frequency": 2.84,
+    "canBeSolution": true
+  },
+  {
+    "word": "RINK",
+    "search": "RINK",
+    "frequency": 2.84,
+    "canBeSolution": true
+  },
+  {
+    "word": "TIRS",
+    "search": "TIRS",
+    "frequency": 2.84,
+    "canBeSolution": true
+  },
+  {
+    "word": "APTE",
+    "search": "APTE",
+    "frequency": 2.77,
+    "canBeSolution": true
+  },
+  {
+    "word": "BABY",
+    "search": "BABY",
+    "frequency": 2.77,
+    "canBeSolution": true
+  },
+  {
+    "word": "COLO",
+    "search": "COLO",
+    "frequency": 2.77,
+    "canBeSolution": true
+  },
+  {
+    "word": "JUTE",
+    "search": "JUTE",
+    "frequency": 2.77,
+    "canBeSolution": true
+  },
+  {
+    "word": "PÔLE",
+    "search": "POLE",
+    "frequency": 2.77,
+    "canBeSolution": true
+  },
+  {
+    "word": "REÇU",
+    "search": "RECU",
+    "frequency": 2.77,
+    "canBeSolution": true
+  },
+  {
+    "word": "SUER",
+    "search": "SUER",
+    "frequency": 2.77,
+    "canBeSolution": true
+  },
+  {
+    "word": "TUTU",
+    "search": "TUTU",
+    "frequency": 2.77,
+    "canBeSolution": true
+  },
+  {
+    "word": "FIEF",
+    "search": "FIEF",
+    "frequency": 2.7,
+    "canBeSolution": true
+  },
+  {
+    "word": "ORAL",
+    "search": "ORAL",
+    "frequency": 2.7,
+    "canBeSolution": true
+  },
+  {
+    "word": "RATÉ",
+    "search": "RATE",
+    "frequency": 2.7,
+    "canBeSolution": true
+  },
+  {
+    "word": "BOUM",
+    "search": "BOUM",
+    "frequency": 2.64,
+    "canBeSolution": true
+  },
+  {
+    "word": "COCA",
+    "search": "COCA",
+    "frequency": 2.64,
+    "canBeSolution": true
+  },
+  {
+    "word": "COUS",
+    "search": "COUS",
+    "frequency": 2.64,
+    "canBeSolution": true
+  },
+  {
+    "word": "FLAN",
+    "search": "FLAN",
+    "frequency": 2.64,
+    "canBeSolution": true
+  },
+  {
+    "word": "FOLK",
+    "search": "FOLK",
+    "frequency": 2.64,
+    "canBeSolution": true
+  },
+  {
+    "word": "IDEM",
+    "search": "IDEM",
+    "frequency": 2.64,
+    "canBeSolution": true
+  },
+  {
+    "word": "SNOB",
+    "search": "SNOB",
+    "frequency": 2.64,
+    "canBeSolution": true
+  },
+  {
+    "word": "TAUX",
+    "search": "TAUX",
+    "frequency": 2.64,
+    "canBeSolution": true
+  },
+  {
+    "word": "BAIL",
+    "search": "BAIL",
+    "frequency": 2.57,
+    "canBeSolution": true
+  },
+  {
+    "word": "CASA",
+    "search": "CASA",
+    "frequency": 2.57,
+    "canBeSolution": true
+  },
+  {
+    "word": "CÔNE",
+    "search": "CONE",
+    "frequency": 2.57,
+    "canBeSolution": true
+  },
+  {
+    "word": "FION",
+    "search": "FION",
+    "frequency": 2.57,
+    "canBeSolution": true
+  },
+  {
+    "word": "MESS",
+    "search": "MESS",
+    "frequency": 2.57,
+    "canBeSolution": true
+  },
+  {
+    "word": "SHOW",
+    "search": "SHOW",
+    "frequency": 2.57,
+    "canBeSolution": true
+  },
+  {
+    "word": "SOLO",
+    "search": "SOLO",
+    "frequency": 2.57,
+    "canBeSolution": true
+  },
+  {
+    "word": "UNIE",
+    "search": "UNIE",
+    "frequency": 2.57,
+    "canBeSolution": true
+  },
+  {
+    "word": "ANIS",
+    "search": "ANIS",
+    "frequency": 2.5,
+    "canBeSolution": true
+  },
+  {
+    "word": "BOSS",
+    "search": "BOSS",
+    "frequency": 2.5,
+    "canBeSolution": true
+  },
+  {
+    "word": "FIEL",
+    "search": "FIEL",
+    "frequency": 2.5,
+    "canBeSolution": true
+  },
+  {
+    "word": "MICA",
+    "search": "MICA",
+    "frequency": 2.5,
+    "canBeSolution": true
+  },
+  {
+    "word": "PUNK",
+    "search": "PUNK",
+    "frequency": 2.5,
+    "canBeSolution": true
+  },
+  {
+    "word": "RAIL",
+    "search": "RAIL",
+    "frequency": 2.5,
+    "canBeSolution": true
+  },
+  {
+    "word": "VISA",
+    "search": "VISA",
+    "frequency": 2.5,
+    "canBeSolution": true
+  },
+  {
+    "word": "ARDU",
+    "search": "ARDU",
+    "frequency": 2.43,
+    "canBeSolution": true
+  },
+  {
+    "word": "DODO",
+    "search": "DODO",
+    "frequency": 2.43,
+    "canBeSolution": true
+  },
+  {
+    "word": "DRUS",
+    "search": "DRUS",
+    "frequency": 2.43,
+    "canBeSolution": true
+  },
+  {
+    "word": "TUÉS",
+    "search": "TUES",
+    "frequency": 2.43,
+    "canBeSolution": true
+  },
+  {
+    "word": "VELU",
+    "search": "VELU",
+    "frequency": 2.43,
+    "canBeSolution": true
+  },
+  {
+    "word": "JOUG",
+    "search": "JOUG",
+    "frequency": 2.36,
+    "canBeSolution": true
+  },
+  {
+    "word": "RÔTI",
+    "search": "ROTI",
+    "frequency": 2.36,
+    "canBeSolution": true
+  },
+  {
+    "word": "TOPO",
+    "search": "TOPO",
+    "frequency": 2.36,
+    "canBeSolution": true
+  },
+  {
+    "word": "CADI",
+    "search": "CADI",
+    "frequency": 2.3,
+    "canBeSolution": true
+  },
+  {
+    "word": "ÉDEN",
+    "search": "EDEN",
+    "frequency": 2.3,
+    "canBeSolution": true
+  },
+  {
+    "word": "FANÉ",
+    "search": "FANE",
+    "frequency": 2.3,
+    "canBeSolution": true
+  },
+  {
+    "word": "FUMÉ",
+    "search": "FUME",
+    "frequency": 2.3,
+    "canBeSolution": true
+  },
+  {
+    "word": "MEUF",
+    "search": "MEUF",
+    "frequency": 2.3,
+    "canBeSolution": true
+  },
+  {
+    "word": "OUZO",
+    "search": "OUZO",
+    "frequency": 2.3,
+    "canBeSolution": true
+  },
+  {
+    "word": "SANA",
+    "search": "SANA",
+    "frequency": 2.3,
+    "canBeSolution": true
+  },
+  {
+    "word": "VAPE",
+    "search": "VAPE",
+    "frequency": 2.3,
+    "canBeSolution": true
+  },
+  {
+    "word": "ZIZI",
+    "search": "ZIZI",
+    "frequency": 2.3,
+    "canBeSolution": true
+  },
+  {
+    "word": "LAPS",
+    "search": "LAPS",
+    "frequency": 2.23,
+    "canBeSolution": true
+  },
+  {
+    "word": "SELS",
+    "search": "SELS",
+    "frequency": 2.23,
+    "canBeSolution": true
+  },
+  {
+    "word": "ÉLUE",
+    "search": "ELUE",
+    "frequency": 2.16,
+    "canBeSolution": true
+  },
+  {
+    "word": "GÂTÉ",
+    "search": "GATE",
+    "frequency": 2.16,
+    "canBeSolution": true
+  },
+  {
+    "word": "JEEP",
+    "search": "JEEP",
+    "frequency": 2.16,
+    "canBeSolution": true
+  },
+  {
+    "word": "ONZE",
+    "search": "ONZE",
+    "frequency": 2.16,
+    "canBeSolution": true
+  },
+  {
+    "word": "BACS",
+    "search": "BACS",
+    "frequency": 2.09,
+    "canBeSolution": true
+  },
+  {
+    "word": "BOYS",
+    "search": "BOYS",
+    "frequency": 2.09,
+    "canBeSolution": true
+  },
+  {
+    "word": "BUSE",
+    "search": "BUSE",
+    "frequency": 2.09,
+    "canBeSolution": true
+  },
+  {
+    "word": "CUVE",
+    "search": "CUVE",
+    "frequency": 2.09,
+    "canBeSolution": true
+  },
+  {
+    "word": "PICS",
+    "search": "PICS",
+    "frequency": 2.09,
+    "canBeSolution": true
+  },
+  {
+    "word": "RAIS",
+    "search": "RAIS",
+    "frequency": 2.09,
+    "canBeSolution": true
+  },
+  {
+    "word": "THYM",
+    "search": "THYM",
+    "frequency": 2.09,
+    "canBeSolution": true
+  },
+  {
+    "word": "MIRE",
+    "search": "MIRE",
+    "frequency": 2.03,
+    "canBeSolution": true
+  },
+  {
+    "word": "NÉNÉ",
+    "search": "NENE",
+    "frequency": 2.03,
+    "canBeSolution": true
+  },
+  {
+    "word": "SOLS",
+    "search": "SOLS",
+    "frequency": 2.03,
+    "canBeSolution": true
+  },
+  {
+    "word": "SOÛL",
+    "search": "SOUL",
+    "frequency": 2.03,
+    "canBeSolution": true
+  },
+  {
+    "word": "SUIF",
+    "search": "SUIF",
+    "frequency": 2.03,
+    "canBeSolution": true
+  },
+  {
+    "word": "VÉCU",
+    "search": "VECU",
+    "frequency": 2.03,
+    "canBeSolution": true
+  },
+  {
+    "word": "DADA",
+    "search": "DADA",
+    "frequency": 1.96,
+    "canBeSolution": false
+  },
+  {
+    "word": "DOPE",
+    "search": "DOPE",
+    "frequency": 1.96,
+    "canBeSolution": false
+  },
+  {
+    "word": "FRAC",
+    "search": "FRAC",
+    "frequency": 1.96,
+    "canBeSolution": false
+  },
+  {
+    "word": "HOME",
+    "search": "HOME",
+    "frequency": 1.96,
+    "canBeSolution": false
+  },
+  {
+    "word": "LAND",
+    "search": "LAND",
+    "frequency": 1.96,
+    "canBeSolution": false
+  },
+  {
+    "word": "PIGE",
+    "search": "PIGE",
+    "frequency": 1.96,
+    "canBeSolution": false
+  },
+  {
+    "word": "POLO",
+    "search": "POLO",
+    "frequency": 1.96,
+    "canBeSolution": false
+  },
+  {
+    "word": "TAIE",
+    "search": "TAIE",
+    "frequency": 1.96,
+    "canBeSolution": false
+  },
+  {
+    "word": "URNE",
+    "search": "URNE",
+    "frequency": 1.96,
+    "canBeSolution": false
+  },
+  {
+    "word": "ALOI",
+    "search": "ALOI",
+    "frequency": 1.89,
+    "canBeSolution": false
+  },
+  {
+    "word": "BÉAT",
+    "search": "BEAT",
+    "frequency": 1.89,
+    "canBeSolution": false
+  },
+  {
+    "word": "BRIO",
+    "search": "BRIO",
+    "frequency": 1.89,
+    "canBeSolution": false
+  },
+  {
+    "word": "CRUS",
+    "search": "CRUS",
+    "frequency": 1.89,
+    "canBeSolution": false
+  },
+  {
+    "word": "DODU",
+    "search": "DODU",
+    "frequency": 1.89,
+    "canBeSolution": false
+  },
+  {
+    "word": "DOGE",
+    "search": "DOGE",
+    "frequency": 1.89,
+    "canBeSolution": false
+  },
+  {
+    "word": "GIRL",
+    "search": "GIRL",
+    "frequency": 1.89,
+    "canBeSolution": false
+  },
+  {
+    "word": "JAVA",
+    "search": "JAVA",
+    "frequency": 1.89,
+    "canBeSolution": false
+  },
+  {
+    "word": "JONC",
+    "search": "JONC",
+    "frequency": 1.89,
+    "canBeSolution": false
+  },
+  {
+    "word": "KIPA",
+    "search": "KIPA",
+    "frequency": 1.89,
+    "canBeSolution": false
+  },
+  {
+    "word": "LIÉS",
+    "search": "LIES",
+    "frequency": 1.89,
+    "canBeSolution": false
+  },
+  {
+    "word": "MORS",
+    "search": "MORS",
+    "frequency": 1.89,
+    "canBeSolution": false
+  },
+  {
+    "word": "PAIE",
+    "search": "PAIE",
+    "frequency": 1.89,
+    "canBeSolution": false
+  },
+  {
+    "word": "PUMA",
+    "search": "PUMA",
+    "frequency": 1.89,
+    "canBeSolution": false
+  },
+  {
+    "word": "SOLE",
+    "search": "SOLE",
+    "frequency": 1.89,
+    "canBeSolution": false
+  },
+  {
+    "word": "SONO",
+    "search": "SONO",
+    "frequency": 1.89,
+    "canBeSolution": false
+  },
+  {
+    "word": "TANK",
+    "search": "TANK",
+    "frequency": 1.89,
+    "canBeSolution": false
+  },
+  {
+    "word": "THON",
+    "search": "THON",
+    "frequency": 1.89,
+    "canBeSolution": false
+  },
+  {
+    "word": "ANUS",
+    "search": "ANUS",
+    "frequency": 1.82,
+    "canBeSolution": false
+  },
+  {
+    "word": "COLT",
+    "search": "COLT",
+    "frequency": 1.82,
+    "canBeSolution": false
+  },
+  {
+    "word": "HUIS",
+    "search": "HUIS",
+    "frequency": 1.82,
+    "canBeSolution": false
+  },
+  {
+    "word": "ITOU",
+    "search": "ITOU",
+    "frequency": 1.82,
+    "canBeSolution": false
+  },
+  {
+    "word": "LOOK",
+    "search": "LOOK",
+    "frequency": 1.82,
+    "canBeSolution": false
+  },
+  {
+    "word": "PIAF",
+    "search": "PIAF",
+    "frequency": 1.82,
+    "canBeSolution": false
+  },
+  {
+    "word": "SKAÏ",
+    "search": "SKAI",
+    "frequency": 1.82,
+    "canBeSolution": false
+  },
+  {
+    "word": "SLOW",
+    "search": "SLOW",
+    "frequency": 1.82,
+    "canBeSolution": false
+  },
+  {
+    "word": "AUGE",
+    "search": "AUGE",
+    "frequency": 1.76,
+    "canBeSolution": false
+  },
+  {
+    "word": "CACA",
+    "search": "CACA",
+    "frequency": 1.76,
+    "canBeSolution": false
+  },
+  {
+    "word": "ONCE",
+    "search": "ONCE",
+    "frequency": 1.76,
+    "canBeSolution": false
+  },
+  {
+    "word": "REIN",
+    "search": "REIN",
+    "frequency": 1.76,
+    "canBeSolution": false
+  },
+  {
+    "word": "TROC",
+    "search": "TROC",
+    "frequency": 1.76,
+    "canBeSolution": false
+  },
+  {
+    "word": "TURF",
+    "search": "TURF",
+    "frequency": 1.76,
+    "canBeSolution": false
+  },
+  {
+    "word": "CAKE",
+    "search": "CAKE",
+    "frequency": 1.69,
+    "canBeSolution": false
+  },
+  {
+    "word": "FÊLÉ",
+    "search": "FELE",
+    "frequency": 1.69,
+    "canBeSolution": false
+  },
+  {
+    "word": "TRAM",
+    "search": "TRAM",
+    "frequency": 1.69,
+    "canBeSolution": false
+  },
+  {
+    "word": "DUCS",
+    "search": "DUCS",
+    "frequency": 1.62,
+    "canBeSolution": false
+  },
+  {
+    "word": "LAIE",
+    "search": "LAIE",
+    "frequency": 1.62,
+    "canBeSolution": false
+  },
+  {
+    "word": "MAIL",
+    "search": "MAIL",
+    "frequency": 1.62,
+    "canBeSolution": false
+  },
+  {
+    "word": "RAID",
+    "search": "RAID",
+    "frequency": 1.62,
+    "canBeSolution": false
+  },
+  {
+    "word": "RÂPÉ",
+    "search": "RAPE",
+    "frequency": 1.62,
+    "canBeSolution": false
+  },
+  {
+    "word": "RAPT",
+    "search": "RAPT",
+    "frequency": 1.62,
+    "canBeSolution": false
+  },
+  {
+    "word": "BOBO",
+    "search": "BOBO",
+    "frequency": 1.55,
+    "canBeSolution": false
+  },
+  {
+    "word": "CANE",
+    "search": "CANE",
+    "frequency": 1.55,
+    "canBeSolution": false
+  },
+  {
+    "word": "CORS",
+    "search": "CORS",
+    "frequency": 1.55,
+    "canBeSolution": false
+  },
+  {
+    "word": "DARD",
+    "search": "DARD",
+    "frequency": 1.55,
+    "canBeSolution": false
+  },
+  {
+    "word": "LINO",
+    "search": "LINO",
+    "frequency": 1.55,
+    "canBeSolution": false
+  },
+  {
+    "word": "LOUF",
+    "search": "LOUF",
+    "frequency": 1.55,
+    "canBeSolution": false
+  },
+  {
+    "word": "MOKA",
+    "search": "MOKA",
+    "frequency": 1.55,
+    "canBeSolution": false
+  },
+  {
+    "word": "NAZE",
+    "search": "NAZE",
+    "frequency": 1.55,
+    "canBeSolution": false
+  },
+  {
+    "word": "PARS",
+    "search": "PARS",
+    "frequency": 1.55,
+    "canBeSolution": false
+  },
+  {
+    "word": "STUC",
+    "search": "STUC",
+    "frequency": 1.55,
+    "canBeSolution": false
+  },
+  {
+    "word": "TAIN",
+    "search": "TAIN",
+    "frequency": 1.55,
+    "canBeSolution": false
+  },
+  {
+    "word": "BÂTI",
+    "search": "BATI",
+    "frequency": 1.49,
+    "canBeSolution": false
+  },
+  {
+    "word": "BLOT",
+    "search": "BLOT",
+    "frequency": 1.49,
+    "canBeSolution": false
+  },
+  {
+    "word": "GOAL",
+    "search": "GOAL",
+    "frequency": 1.49,
+    "canBeSolution": false
+  },
+  {
+    "word": "GRIL",
+    "search": "GRIL",
+    "frequency": 1.49,
+    "canBeSolution": false
+  },
+  {
+    "word": "ITEM",
+    "search": "ITEM",
+    "frequency": 1.49,
+    "canBeSolution": false
+  },
+  {
+    "word": "KHAN",
+    "search": "KHAN",
+    "frequency": 1.49,
+    "canBeSolution": false
+  },
+  {
+    "word": "LEGS",
+    "search": "LEGS",
+    "frequency": 1.49,
+    "canBeSolution": false
+  },
+  {
+    "word": "LOTS",
+    "search": "LOTS",
+    "frequency": 1.49,
+    "canBeSolution": false
+  },
+  {
+    "word": "NOUÉ",
+    "search": "NOUE",
+    "frequency": 1.49,
+    "canBeSolution": false
+  },
+  {
+    "word": "PUER",
+    "search": "PUER",
+    "frequency": 1.49,
+    "canBeSolution": false
+  },
+  {
+    "word": "PUNI",
+    "search": "PUNI",
+    "frequency": 1.49,
+    "canBeSolution": false
+  },
+  {
+    "word": "REPS",
+    "search": "REPS",
+    "frequency": 1.49,
+    "canBeSolution": false
+  },
+  {
+    "word": "REPU",
+    "search": "REPU",
+    "frequency": 1.49,
+    "canBeSolution": false
+  },
+  {
+    "word": "SEXY",
+    "search": "SEXY",
+    "frequency": 1.49,
+    "canBeSolution": false
+  },
+  {
+    "word": "SKIS",
+    "search": "SKIS",
+    "frequency": 1.49,
+    "canBeSolution": false
+  },
+  {
+    "word": "SOUK",
+    "search": "SOUK",
+    "frequency": 1.49,
+    "canBeSolution": false
+  },
+  {
+    "word": "TALC",
+    "search": "TALC",
+    "frequency": 1.49,
+    "canBeSolution": false
+  },
+  {
+    "word": "TILT",
+    "search": "TILT",
+    "frequency": 1.49,
+    "canBeSolution": false
+  },
+  {
+    "word": "BABA",
+    "search": "BABA",
+    "frequency": 1.42,
+    "canBeSolution": false
+  },
+  {
+    "word": "DABE",
+    "search": "DABE",
+    "frequency": 1.42,
+    "canBeSolution": false
+  },
+  {
+    "word": "FANS",
+    "search": "FANS",
+    "frequency": 1.42,
+    "canBeSolution": false
+  },
+  {
+    "word": "GOGO",
+    "search": "GOGO",
+    "frequency": 1.42,
+    "canBeSolution": false
+  },
+  {
+    "word": "LUGE",
+    "search": "LUGE",
+    "frequency": 1.42,
+    "canBeSolution": false
+  },
+  {
+    "word": "VOMI",
+    "search": "VOMI",
+    "frequency": 1.42,
+    "canBeSolution": false
+  },
+  {
+    "word": "YACK",
+    "search": "YACK",
+    "frequency": 1.42,
+    "canBeSolution": false
+  },
+  {
+    "word": "AXES",
+    "search": "AXES",
+    "frequency": 1.35,
+    "canBeSolution": false
+  },
+  {
+    "word": "BRIS",
+    "search": "BRIS",
+    "frequency": 1.35,
+    "canBeSolution": false
+  },
+  {
+    "word": "HARO",
+    "search": "HARO",
+    "frequency": 1.35,
+    "canBeSolution": false
+  },
+  {
+    "word": "HÉRO",
+    "search": "HERO",
+    "frequency": 1.35,
+    "canBeSolution": false
+  },
+  {
+    "word": "INNÉ",
+    "search": "INNE",
+    "frequency": 1.35,
+    "canBeSolution": false
+  },
+  {
+    "word": "LOBE",
+    "search": "LOBE",
+    "frequency": 1.35,
+    "canBeSolution": false
+  },
+  {
+    "word": "ROLL",
+    "search": "ROLL",
+    "frequency": 1.35,
+    "canBeSolution": false
+  },
+  {
+    "word": "SHIT",
+    "search": "SHIT",
+    "frequency": 1.35,
+    "canBeSolution": false
+  },
+  {
+    "word": "TOGE",
+    "search": "TOGE",
+    "frequency": 1.35,
+    "canBeSolution": false
+  },
+  {
+    "word": "VAUX",
+    "search": "VAUX",
+    "frequency": 1.35,
+    "canBeSolution": false
+  },
+  {
+    "word": "FISC",
+    "search": "FISC",
+    "frequency": 1.28,
+    "canBeSolution": false
+  },
+  {
+    "word": "FLIP",
+    "search": "FLIP",
+    "frequency": 1.28,
+    "canBeSolution": false
+  },
+  {
+    "word": "FUTÉ",
+    "search": "FUTE",
+    "frequency": 1.28,
+    "canBeSolution": false
+  },
+  {
+    "word": "HOUX",
+    "search": "HOUX",
+    "frequency": 1.28,
+    "canBeSolution": false
+  },
+  {
+    "word": "LUTH",
+    "search": "LUTH",
+    "frequency": 1.28,
+    "canBeSolution": false
+  },
+  {
+    "word": "ORME",
+    "search": "ORME",
+    "frequency": 1.28,
+    "canBeSolution": false
+  },
+  {
+    "word": "RIXE",
+    "search": "RIXE",
+    "frequency": 1.28,
+    "canBeSolution": false
+  },
+  {
+    "word": "SEMI",
+    "search": "SEMI",
+    "frequency": 1.28,
+    "canBeSolution": false
+  },
+  {
+    "word": "SUCS",
+    "search": "SUCS",
+    "frequency": 1.28,
+    "canBeSolution": false
+  },
+  {
+    "word": "AMEN",
+    "search": "AMEN",
+    "frequency": 1.22,
+    "canBeSolution": false
+  },
+  {
+    "word": "COÛT",
+    "search": "COUT",
+    "frequency": 1.22,
+    "canBeSolution": false
+  },
+  {
+    "word": "DÎME",
+    "search": "DIME",
+    "frequency": 1.22,
+    "canBeSolution": false
+  },
+  {
+    "word": "DIVA",
+    "search": "DIVA",
+    "frequency": 1.22,
+    "canBeSolution": false
+  },
+  {
+    "word": "JUDO",
+    "search": "JUDO",
+    "frequency": 1.22,
+    "canBeSolution": false
+  },
+  {
+    "word": "LABO",
+    "search": "LABO",
+    "frequency": 1.22,
+    "canBeSolution": false
+  },
+  {
+    "word": "LICE",
+    "search": "LICE",
+    "frequency": 1.22,
+    "canBeSolution": false
+  },
+  {
+    "word": "LYNX",
+    "search": "LYNX",
+    "frequency": 1.22,
+    "canBeSolution": false
+  },
+  {
+    "word": "MÊLÉ",
+    "search": "MELE",
+    "frequency": 1.22,
+    "canBeSolution": false
+  },
+  {
+    "word": "OUÏR",
+    "search": "OUIR",
+    "frequency": 1.22,
+    "canBeSolution": false
+  },
+  {
+    "word": "PELÉ",
+    "search": "PELE",
+    "frequency": 1.22,
+    "canBeSolution": false
+  },
+  {
+    "word": "POIX",
+    "search": "POIX",
+    "frequency": 1.22,
+    "canBeSolution": false
+  },
+  {
+    "word": "TRIP",
+    "search": "TRIP",
+    "frequency": 1.22,
+    "canBeSolution": false
+  },
+  {
+    "word": "VAMP",
+    "search": "VAMP",
+    "frequency": 1.22,
+    "canBeSolution": false
+  },
+  {
+    "word": "CROC",
+    "search": "CROC",
+    "frequency": 1.15,
+    "canBeSolution": false
+  },
+  {
+    "word": "DONA",
+    "search": "DONA",
+    "frequency": 1.15,
+    "canBeSolution": false
+  },
+  {
+    "word": "GENT",
+    "search": "GENT",
+    "frequency": 1.15,
+    "canBeSolution": false
+  },
+  {
+    "word": "GROG",
+    "search": "GROG",
+    "frequency": 1.15,
+    "canBeSolution": false
+  },
+  {
+    "word": "HOLÀ",
+    "search": "HOLA",
+    "frequency": 1.15,
+    "canBeSolution": false
+  },
+  {
+    "word": "LOTO",
+    "search": "LOTO",
+    "frequency": 1.15,
+    "canBeSolution": false
+  },
+  {
+    "word": "LYRE",
+    "search": "LYRE",
+    "frequency": 1.15,
+    "canBeSolution": false
+  },
+  {
+    "word": "PIES",
+    "search": "PIES",
+    "frequency": 1.15,
+    "canBeSolution": false
+  },
+  {
+    "word": "RAKI",
+    "search": "RAKI",
+    "frequency": 1.15,
+    "canBeSolution": false
+  },
+  {
+    "word": "TAXE",
+    "search": "TAXE",
+    "frequency": 1.15,
+    "canBeSolution": false
+  },
+  {
+    "word": "CRIC",
+    "search": "CRIC",
+    "frequency": 1.08,
+    "canBeSolution": false
+  },
+  {
+    "word": "HARD",
+    "search": "HARD",
+    "frequency": 1.08,
+    "canBeSolution": false
+  },
+  {
+    "word": "JOJO",
+    "search": "JOJO",
+    "frequency": 1.08,
+    "canBeSolution": false
+  },
+  {
+    "word": "LOCO",
+    "search": "LOCO",
+    "frequency": 1.08,
+    "canBeSolution": false
+  },
+  {
+    "word": "LOPE",
+    "search": "LOPE",
+    "frequency": 1.08,
+    "canBeSolution": false
+  },
+  {
+    "word": "MAIE",
+    "search": "MAIE",
+    "frequency": 1.08,
+    "canBeSolution": false
+  },
+  {
+    "word": "PAPY",
+    "search": "PAPY",
+    "frequency": 1.08,
+    "canBeSolution": false
+  },
+  {
+    "word": "RANI",
+    "search": "RANI",
+    "frequency": 1.08,
+    "canBeSolution": false
+  },
+  {
+    "word": "YOGA",
+    "search": "YOGA",
+    "frequency": 1.08,
+    "canBeSolution": false
+  },
+  {
+    "word": "MINI",
+    "search": "MINI",
+    "frequency": 1.01,
+    "canBeSolution": false
+  },
+  {
+    "word": "OPUS",
+    "search": "OPUS",
+    "frequency": 1.01,
+    "canBeSolution": false
+  },
+  {
+    "word": "ORBE",
+    "search": "ORBE",
+    "frequency": 1.01,
+    "canBeSolution": false
+  },
+  {
+    "word": "PERM",
+    "search": "PERM",
+    "frequency": 1.01,
+    "canBeSolution": false
+  },
+  {
+    "word": "SODA",
+    "search": "SODA",
+    "frequency": 1.01,
+    "canBeSolution": false
+  },
+  {
+    "word": "TYPO",
+    "search": "TYPO",
+    "frequency": 1.01,
+    "canBeSolution": false
+  }
+]

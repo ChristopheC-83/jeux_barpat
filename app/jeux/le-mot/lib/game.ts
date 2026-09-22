@@ -1,4 +1,3 @@
-export const WORD_LENGTH = 5;
 export const MAX_ATTEMPTS = 6;
 
 export type LetterState = "correct" | "present" | "absent";
@@ -37,10 +36,11 @@ export function normalizeWord(value: string): string {
 export function validateGuess(
   guess: string,
   acceptedWords: ReadonlySet<string>,
+  wordLength: number,
 ): GuessValidation {
   const word = normalizeWord(guess);
 
-  if (word.length !== WORD_LENGTH) {
+  if (word.length !== wordLength) {
     return { valid: false, reason: "incomplete" };
   }
 
@@ -54,21 +54,26 @@ export function validateGuess(
 export function evaluateGuess(guess: string, solution: string): EvaluatedGuess {
   const normalizedGuess = normalizeWord(guess);
   const normalizedSolution = normalizeWord(solution);
+  const wordLength = normalizedSolution.length;
 
   if (
-    normalizedGuess.length !== WORD_LENGTH ||
-    normalizedSolution.length !== WORD_LENGTH
+    wordLength === 0 ||
+    normalizedGuess.length !== wordLength ||
+    !/^[A-Z]+$/.test(normalizedGuess) ||
+    !/^[A-Z]+$/.test(normalizedSolution)
   ) {
-    throw new Error("La proposition et la solution doivent contenir cinq lettres.");
+    throw new Error(
+      "La proposition et la solution doivent contenir le même nombre de lettres A à Z.",
+    );
   }
 
   const states: LetterState[] = Array.from(
-    { length: WORD_LENGTH },
+    { length: wordLength },
     () => "absent" as const,
   );
   const remainingOccurrences = new Map<string, number>();
 
-  for (let index = 0; index < WORD_LENGTH; index += 1) {
+  for (let index = 0; index < wordLength; index += 1) {
     if (normalizedGuess[index] === normalizedSolution[index]) {
       states[index] = "correct";
     } else {
@@ -80,7 +85,7 @@ export function evaluateGuess(guess: string, solution: string): EvaluatedGuess {
     }
   }
 
-  for (let index = 0; index < WORD_LENGTH; index += 1) {
+  for (let index = 0; index < wordLength; index += 1) {
     if (states[index] === "correct") {
       continue;
     }

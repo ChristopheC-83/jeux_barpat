@@ -2,7 +2,6 @@ import type { CSSProperties } from "react";
 
 import {
   MAX_ATTEMPTS,
-  WORD_LENGTH,
   type EvaluatedGuess,
   type GameStatus,
   type LetterState,
@@ -12,6 +11,7 @@ import styles from "@/app/jeux/le-mot/le-mot.module.css";
 type GameGridProps = {
   guesses: readonly EvaluatedGuess[];
   currentGuess: string;
+  wordLength: number;
   status: GameStatus;
   shakeKey: number;
 };
@@ -37,13 +37,14 @@ const STATE_CLASSES: Record<LetterState, string> = {
 export function GameGrid({
   guesses,
   currentGuess,
+  wordLength,
   status,
   shakeKey,
 }: GameGridProps) {
   return (
     <div
       role="grid"
-      aria-label="Grille de six essais de cinq lettres"
+      aria-label={`Grille de six essais de ${wordLength} lettres`}
       className="grid w-full max-w-[21rem] gap-1.5 sm:gap-2"
     >
       {Array.from({ length: MAX_ATTEMPTS }, (_, rowIndex) => {
@@ -51,7 +52,7 @@ export function GameGrid({
         const isCurrentRow =
           !evaluatedGuess && rowIndex === guesses.length && status === "playing";
         const letters = evaluatedGuess?.letters ??
-          Array.from({ length: WORD_LENGTH }, (_, letterIndex) => ({
+          Array.from({ length: wordLength }, (_, letterIndex) => ({
             letter: isCurrentRow ? (currentGuess[letterIndex] ?? "") : "",
             state: undefined,
           }));
@@ -60,7 +61,8 @@ export function GameGrid({
           <div
             role="row"
             key={isCurrentRow ? `current-${rowIndex}-${shakeKey}` : rowIndex}
-            className={`grid grid-cols-5 gap-1.5 sm:gap-2 ${isCurrentRow && shakeKey > 0 ? styles.shake : ""}`}
+            style={{ gridTemplateColumns: `repeat(${wordLength}, minmax(0, 1fr))` }}
+            className={`grid gap-1.5 sm:gap-2 ${isCurrentRow && shakeKey > 0 ? styles.shake : ""}`}
           >
             {letters.map(({ letter, state }, letterIndex) => {
               const stateLabel = state ? STATE_LABELS[state] : null;
